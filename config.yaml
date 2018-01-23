@@ -1,0 +1,14 @@
+baseURL: https://lrtp.cuuats.org/
+languageCode: en-us
+title: Sustainable Choices 2040
+theme: plandocument
+params:
+  agency:
+    name: Champaign Urbana Urbanized Area Transportation Study
+    logo: img/cuuats-logo.svg
+    url: https://cuuats.org/
+    email: lrtp@cuuats.org
+    phone: (217) 328-3313
+    facebook: https://www.facebook.com/CUUATS/
+    twitter: https://twitter.com/cuuats
+    youtube: https://www.youtube.com/channel/UCUuJgNI211l8bczez5T5BkQ
