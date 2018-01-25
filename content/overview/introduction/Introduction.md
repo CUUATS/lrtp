@@ -43,7 +43,7 @@ previous LRTP, by using improved modeling tools and a dramatically expanded
 public involvement campaign to more clearly define the region’s transportation
 issues and identify a future vision along with strategies to realize it.
 
-### Champaign-Urbana MPO and LRTP Performance measures
+## Champaign-Urbana MPO and LRTP Performance measures
 The federal transportation legislation, Moving Ahead for Progress in the 21st
 Century (MAP-21), requires MPOs to develop a performance-based approach to
 transportation decision-making to support the seven national goals of the
@@ -74,7 +74,7 @@ identified in the plan. Monitoring performance measures is an ongoing task for
 CUUATS staff and Sustainable Choices 2040 is shaped, in part, by progress
 achieved toward the goals set in the last two LRTPs.
 
-### Moving Ahead for Progress In The 21st Century
+## Moving Ahead for Progress In The 21st Century
 The federal surface transportation authorization legislation, MAP-21, was
 enacted on July 6, 2012 and took effect on October 1, 2012. MAP-21 requirements
 for the LRTP are very similar to the previous transportation authorization,
@@ -95,7 +95,7 @@ fiscally constrained financial plan. Promoting the MAP-21 planning factors
 * people and freight. Promote efficient system management and operation.
 * Emphasize the preservation of the existing transportation system.
 
-### State of Illinois Transportation Plan
+## State of Illinois Transportation Plan
 The Illinois State Transportation Plan Transforming Transportation for Tomorrow
 was adopted in December 2012. The plan represents IDOT’s commitment to a safe,
 sustainable, integrated multimodal transportation system. The plan’s policies
@@ -119,7 +119,7 @@ The plan’s eight guiding policy factors include:
 * Security to protect the State’s valuable assets and ensure the continued
 * operation of the system.
 
-### Local Transportation Plans
+## Local Transportation Plans
 The following list is a compilation of some of the local and regional reports,
 documents, and other studies relevant to transportation and development in the
 region that have contributed to the development of the 2040 vision:
@@ -156,7 +156,7 @@ region that have contributed to the development of the 2040 vision:
 * Plan. HNTB, 2008. City of Urbana Comprehensive Plan. City of Urbana, 2005.
 * Champaign-Urbana-Savoy Regional ITS Architecture. CUUATS, 2005.
 
-### Integrating Federal, State, and Local Priorities Into The LRTP
+## Integrating Federal, State, and Local Priorities Into The LRTP
 The performance-based investment decisions and targets required by MAP-21 should
 be coordinated with those of relevant national, state, and local agencies,
 including IDOT and public transportation providers, to ensure consistency.
@@ -181,7 +181,7 @@ nation include:
 * fiscal strain at all levels of government; Unresolved transportation funding
 * challenges within national, state, and local political environments.
 
-### A Sustainable Vision for Choices in 2040
+## A Sustainable Vision for Choices in 2040
 The LRTP: Sustainable Choices 2040 has an overall mission to offer
 sustainable transportation choices within the region that will help balance
 the economic, environmental, and social aspects of urban growth and
