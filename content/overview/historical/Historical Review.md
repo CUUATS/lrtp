@@ -56,7 +56,7 @@ the first regional plan, and Swanson Associates, which proposed an efficient
 transportation network to improve street network irregularities, completed the
 first comprehensive plan.
 
-## Preview Long Range Transportation Planning
+## Previous Long Range Transportation Planning
 ### 1960-1970 LRTPs
 In 1960, Harland Bartholomew and Associates prepared “A Major Street and Highway
 Plan for the Champaign-Urbana Urban Area” for the State of Illinois Division of
