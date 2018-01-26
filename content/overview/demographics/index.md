@@ -18,33 +18,33 @@ Village of Mahomet and some rural areas of Champaign County. The MPA is used to
 determine which areas will develop in a contiguous manner to the urbanized area
 over the next 25 years, (Figure 3.1).1
 
-### City of Champaign
+#### City of Champaign
 The City of Champaign is the most populous and geographically largest
 municipality in the urbanized area. As of 2010, Champaign had a population of
 81,055 and currently covers nearly 23 square miles.
 
-### City of Urbana
+#### City of Urbana
 The City of Urbana is the second most populous and second largest municipality
 in the urbanized area. As of 2010, Urbana had a population of 41,250 and
 currently covers nearly 12 square miles.
 
-### Village of Savoy
+#### Village of Savoy
 The Village of Savoy is the third most populous and third largest municipality
 in the urbanized area. As of 2010, Savoy had a population of 7,280 and currently
 covers three square miles.
 
-### Village of Bondville
+#### Village of Bondville
 The Village of Bondville is located approximately two miles west of the City of
 Champaign on Illinois Route 10. It is the least populous and smallest of the
 municipalities in the urbanized area. As of 2010, Bondville had a population of
 443 and currently covers 0.3 square miles.
 
-### Village of Tolono
+#### Village of Tolono
 The Village of Tolono was added to the Champaign-Urbana Urbanized Area in 2010.
 As of 2010, Tolono had a population of 3,447 and currently covers two square
 miles.
 
-### Village of Mahomet
+#### Village of Mahomet
 The Village of Mahomet is located approximately ten miles west of the City of
 Champaign on Interstate 74. As of 2010, Mahomet had a population of 7,259 and
 currently covers about 7 square miles.
