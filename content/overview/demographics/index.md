@@ -28,7 +28,7 @@ The City of Urbana is the second most populous and second largest municipality
 in the urbanized area. As of 2010, Urbana had a population of 41,250 and
 currently covers nearly 12 square miles.
 
-#### Village of Savoy
+### Village of Savoy
 The Village of Savoy is the third most populous and third largest municipality
 in the urbanized area. As of 2010, Savoy had a population of 7,280 and currently
 covers three square miles.
