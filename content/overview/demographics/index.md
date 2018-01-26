@@ -55,10 +55,98 @@ According to the 2010 Census, Champaign County, Illinois has a population of
 Champaign-Urbana Urbanized Area, consisting of 53,944 households and an average
 household size of 2.2 persons.
 
-#### Age
+### Age
 The 2010 Census shows that the largest group of residents in the urbanized area
 is between 20 and 29 years of age (Figure 3.2), which includes students at the
 University of Illinois at Urbana-Champaign. There are more males in the age
 groups from 0 to 39 years of age, and more females in the age groups from 40 to
 80+ years of age. This trend is generally the same as was seen in the 2000
 Census population for the urbanized area.
+
+### Race and Ethnicity
+The majority of the urbanized area population is white, although the percentage
+of white population has fallen 5.7 percent since 2000 (Table 3.1). The second
+largest racial group is black or African Americans, which has increased 3.6
+percent since 2000. Asians are the third largest racial group with the highest
+increase in percentage of the total population since 2000, with 5.4 percent. The
+urbanized area and the county show similar trends in Hispanic versus
+non-Hispanic populations, which are 6 and 94 percent, respectively. For the
+Hispanic population of the urbanized area, this is a 2.5 percent increase in the
+percentage of the total population since 2000.
+
+## Education, Income, Poverty, and Disability
+According to the 2010 American Community Survey (ACS), nearly 94 percent of the
+population in the urbanized area has a high school diploma or higher (Table
+3.2). Of this population, 50.5 percent has a bachelor’s degree or higher. This
+is a two-percent increase in persons with at least a high school diploma and a
+three-percent increase of persons with a bachelor’s d or higher since 2000. This
+illustrates that the urbanized area generally has a highly educated population
+compared to the state and the nation overall due to the presence of the
+University of Illinois.
+
+### Median Income
+Median income is a valuable indicator for the transportation options available
+to residents. However, in a college town where institutional and family grants
+and loans are commonly used to cover student educational and living expenses,
+income is not easily measured or compared accross different populations. The
+U.S. Census defines ‘household’ income as excluding students living in group
+quarters, but not those living in households. Table 3.3 indicates that Savoy has
+the highest household income for the region at $50,000 per year and the highest
+householder income for the age range 45-65 at nearly $90,000 per year.
+Generally, householders in the area from 15-24 years of age have the lowest
+median income due to the large student population, with income generally rising
+from the 24-44 to the 45-64 age bracket. As householders retire, incomes begin
+to fall again, although not to the point of householders in the 15-24 age
+bracket.
+
+### Poverty Status by Age
+As part of the planning process, concentrations of targeted population groups
+were identified, including elderly individuals, individuals with disabilities
+(Table 3.4), and persons with low incomes (Table 3.5). This information is
+relevant when developing and evaluating transit plans, which requires careful
+analysis of the mobility needs of the population and potential ridership for
+transit services. Between 2000 and 2010, the US Census Bureau changed its
+methodology for collecting income and poverty data**. Table 3.5 shows that the
+rate of poverty for each age category was relatively consistent between 2000 and
+2010, with an overall increase in the number of people living below the poverty
+level. Similar to measuring income, poverty levels can be difficult to measure
+and compare due to the fact that students are sometimes inaccurately defined as
+‘living below poverty level’ because of the difficulty in measuring their
+non-traditional forms of income and financial support.
+
+### Households
+Household size is an indicator of population distribution and density within the
+urbanized area. One-person households grew by nearly 3,000 households
+(approximately three percent) between 2000 and 2010, which illustrates an
+increasing prevalence of people living alone in the area (Table 3.6). The
+remainder of the household sizes generally grew in number but remained
+consistent in percent of total households, except for 5-person households and
+2-person households.
+
+### Urban-Rural Ratio
+The urbanized area grew from 123,938 people in 2000 to 145,361 people in 2010.
+The urbanized area also grew by more than eight square miles from 2000 to 2010
+with a continued trend of nearly three-percent shift from rural to urban land
+designation per decade in Champaign County from 1980 to 2010 (Table 3.7).
+
+## Employment
+Champaign County is a regional employment center because of the presence of
+educational, health care, and manufacturing employers in the area. According to
+the Illinois Department of Employment Security, (IDES), the unemployment rate
+decreased from 8.2 to 8 percent during the period 2009-2011 despite a reduction
+of over 5,000 workers in the labor force. According to the IDES, the top five
+employment sectors for 2011 were:
+
+1. Educational Services – 19,120 workers
+2. Health Care and Social Assistance – 11,514 workers
+3. Retail Trade – 8,996 workers
+4. Accommodation and Food Services – 8,606 workers
+5. Manufacturing – 7,554 workers
+
+Several of the companies within the top five industries in Champaign County have
+shown growth since 2009 (Table 3.8). For example, the University of Illinois and
+Carle have both hired over 300 new employees since 2009. Other companies such as
+Kraft Foods, Inc., Plastipak Packaging, Inc., and Christie Clinic have
+experienced a small growth in employees in the same time period. Parkland
+College and Provena Covenant Medical Center have each lost more than 200
+employees since 2009.
