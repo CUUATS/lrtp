@@ -150,3 +150,45 @@ Kraft Foods, Inc., Plastipak Packaging, Inc., and Christie Clinic have
 experienced a small growth in employees in the same time period. Parkland
 College and Provena Covenant Medical Center have each lost more than 200
 employees since 2009.
+
+One of the most frequent trips made within the Metropolitan Planning Area (MPA)
+is area residents’ journey to work, determined on a large scale by population
+and employment locations. Consequently, population and employment are critical
+factors in planning for a more sustainable, equitable, and efficient
+transportation network, as well as upholding the vision and goals listed in
+Sustainable Choices 2040. Effectively planning for future changes in population
+and employment can result in many benefits, including reduced vehicle miles
+travelled (VMT), travel time, and traffic congestion as well as increased
+accessibility, air quality, and household spending power.
+
+## Traveling in the Urbanized Area
+
+Mode choice and vehicle availability for workers are important factors used to
+assess the need for the provision of alternatives to the automobile. These data
+also provide information on the prevalence of automobiles in the region. In the
+urbanized area, more than 4,000 people (or seven percent) of the working
+population do not have access to a personal vehicle. Champaign and Urbana have a
+higher rate of no-vehicle ownership than the rest of the urbanized area at 7.5
+and 8.4 percent, respectively, compared with an average of 7 percent for the
+entire urbanized area. Table 3.10 shows the commuter mode for workers in
+urbanized areas across the Midwest. The Champaign-Urbana urbanized area has the
+highest percentage of drivers and carpoolers, but also has a high percentage of
+workers who take public transportation and walk, although the numbers in these
+categories have decreased for the urbanized area overall since Tolono,
+Bondville, and the southern portion of Savoy don’t have access to public
+transportation.
+
+Table 3.11 shows the commuting mode for workers by municipality within the
+urbanized area. Champaign and Urbana have the highest percentages of workers who
+use public transportation, walk, or bicycle in the region and the lowest numbers
+of people who drive. The Cities of Urbana and Champaign, and the University of
+Illinois have been designated Bicycle Friendly Communities/University by the
+League of American Bicyclists. In addition, the City of Urbana was ranked 15th
+among all small cities in the nation (with population between 20,000 and 99,999)
+in percent of residents who bike or walk to work. Savoy, Tolono, and Bondville
+have high levels of people who drive alone or carpool to work.
+
+Table 3.12 shows travel time to work for workers in the region. In Champaign,
+Urbana, and Savoy, a majority of workers have less than a 15-minute commute. In
+Tolono and Bondville, most workers have a commute between 15 and 29 minutes.
+Overall, the mean travel time in the urbanized area is less than 20 minutes.
