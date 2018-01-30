@@ -60,3 +60,25 @@ there was significant land area increase from 2007 to 2008 in Champaign, Urbana
 and Savoy which was a contributing factor to the indicated decline in the
 density. Residential densities in each municipality have increased overall since
 2008.
+
+### Acreage Per Land Use Category
+Agriculture remains the biggest land use within the MPA, although there was an
+estimated reduction of 7.6 percent of agricultural land acreage between 2009 and
+2012. The Private Open Space classification between 2009 and 2011 is
+inconsistent, which makes the comparison between them difficult. Public Open
+Space has doubled since 2009 – partially due to a significant amount of Private
+Open Space acreage being converted to Public Open Space. Other land uses have
+not experienced a significant change since 2009, with the exception of Utilities
+and Other land use categories, whose definitions have changed since 2009, which
+makes comparisons to previous years difficult.
+
+### Archaeological and Historical Sites
+Cultural, historical, and archeological resources in the MPA include significant
+buildings, sites, districts, structures, and objects. Figure 4.4 displays
+locations and types of archeological and historical resources – the majority of
+which are found within or near the University of Illinois campus, downtown
+Champaign, and downtown Urbana. With regard to transportation and development,
+locations of any new development needs to take measures to avoid adverse impacts
+such as damage, destruction, or removal of these features. Furthermore,
+transportationrelated development should seek to preserve the larger setting of
+these structures when the setting is a significant element of the property.
