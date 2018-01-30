@@ -2,7 +2,6 @@
 title: "Demographics"
 date: 2018-01-25T15:33:10-06:00
 draft: true
-menu: Overview
 weight: 10
 ---
 The Champaign-Urbana Urbanized Area is a diverse region spanning 47 square miles
