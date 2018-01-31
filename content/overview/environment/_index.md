@@ -125,3 +125,25 @@ Aquifer, an estimated 513,700 people live within the Mahomet Aquifer service
 area and 509,000 people (or 99%) are served by the aquifer. A 2009 report from
 the Illinois State Water Survey shows significant drawndown trends in the
 Mahomet Aquifer though no shortages are yet predicted1.
+
+## Ecological Work
+It is important to consider where development of infrastructure for
+transportation and other land uses will take place because local species often
+rely on sensitive natural areas like grasslands, woodlands and wetlands. In June
+2013, there were 13 endangered and nine threatened species living in Champaign
+County, according to the Illinois Natural Heritage Database (Table 5.4). In
+2011, land cover within the metropolitan planning area consisted of 80,492 acres
+of grassland or agricultural use, 30,148 acres of urban landscape, 3,461 acres
+of woodlands, and 545 acres of wetlands (Figure 5.3).
+
+Information on woodlands, urban areas, grasslands, and agricultural uses was
+obtained from aerial photography taken in 2011. Wetland information for the
+Champaign-Urbana Urbanized Area is based on data from the United States Fish and
+Wildlife Service (USFWS) National Wetland Inventory classification system, as
+well as from local agencies. In order to track preservation (or exploitation) of
+natural systems over time, land cover acreage should be mapped every five years
+during the development of the LRTP to better account for environmental
+maintenance efforts. Wetlands, in particular, greatly assist in retaining storm
+water during times of heavy precipitation and work to reduce the effects of
+regional flooding in addition to providing habitat for specific types of
+vegetation and animal species not found in other environments.
