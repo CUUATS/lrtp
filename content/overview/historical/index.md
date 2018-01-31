@@ -2,7 +2,6 @@
 title: "Historical Review"
 date: 2018-01-25T14:25:55-06:00
 draft: true
-menu: Overview
 weight: 10
 
 ---
