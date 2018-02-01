@@ -103,3 +103,185 @@ people feel when walking. In a region of the country that gets fewer than twelve
 hours of daylight for six months out of the year, street lighting should be a
 priority to facilitate people being active and outside as often and as safely as
 possible.
+
+## Resilient Economy
+This pillar came out of public input that focused on the 2008 economic downturn
+and the changing nature of employment and the impacts on mobility, social
+services, income disparity, home ownership, neighborhood health, and more. This
+pillar builds on MAP-21 factor number one, which aims to “support the economic
+vitality of the metropolitan area, especially by enabling global
+competitiveness, productivity, and efficiency.” By including the qualifier
+“resilient,” this pillar represents community desires to facilitate the ability
+of the regional economy to continue to support a high quality of life in the
+face of larger market forces by supporting existing and emerging local and
+global business development, continuing to invest in forward-looking
+infrastructure like fiber connectivity, establishing strong inter-regional
+transportation options like bullet trains, and promoting inter-municipal
+coordination. This pillar also includes community concerns regarding supporting
+and growing a diverse workforce. It is important to establish quality education,
+training, and employment opportunities for a wide range of interests, ages,
+ethnicities, and skill levels to foster a diverse and dynamic workforce now and
+in the future.
+
+### Transportation
+* Assess gaps in infrastructure and identify priority areas where potentially
+small investments could result in a significant impact, such as improving
+sidewalk connectivity.
+* To enhance the economic vitality of the region, Willard should remain a viable
+option for freight carriers and travelers with continued support of multi-modal
+options to and from the airport.
+* The region should identify the needs of businesses using rail and freight
+trucks. The establishment of a freight plan would help the region identify local
+truck routes most suited for freight traffic. The identification of regional
+facilities for alternative fueling methods can also encourage more sustainable
+freight trucks.
+* Many people voiced a desire for bullet trains to expand options for students and
+commuters in the region. Amtrak ridership has continued to increase and should
+be supported regionally by increasing the number and frequency of trains to
+maintain this trend.
+
+### Land Use
+* Public input indicated a shift away from detached single-family home ownership
+in some neighborhoods, toward more economically and structurally diverse housing
+options. In addition, the public voiced that affordable and subsidized housing
+in particular need to be better integrated with the existing pedestrian, bike,
+and transit network to reduce transportation costs for those households.
+
+* Public input revealed that many people would like to see more mixed use zoning
+to allow for smaller businesses and other economic opportunities within some
+residential neighborhoods. Residents would also like to continue ongoing
+revitalization of the downtown areas of Champaign and Urbana, as well as the
+University of Illinois research park, as multimodal hubs for transportation,
+employment, and services.
+
+* To echo the Champaign Growing Greener plan published in 2013, it should be a
+priority to improve the availability of locally grown foods. Growing more food
+to sell locally would capitalize on the rich soil in the region, support local
+farmers, and benefit population health.
+
+* Support economic growth by undertaking a planning process that identifies
+potential economic development areas in the urbanized area in order to build a
+transportation system that better supports those needs. This could include
+increasing local capacity, safety, accessibility, and mode opportunities through
+expanded transit service, or bike access to major employment centers and
+educational facilities such as Parkland Community College.
+
+## Multimodal Connectivity
+This pillar combines MAP-21 factors four, six, and seven with the intention of
+providing and coordinating all transportation modes to get everywhere in our
+region. By focusing on providing as much access to as many different places as
+possible for all transportation modes, this planning pillar aims to increase
+accessibility and mobility of people and freight to all areas of the region,
+enhance the ability to connect different modes when necessary or cost-effective
+for people and businesses, and to increase the resource efficiency of the
+transportation system by allowing for the use of more active and non-motorized
+modes whenever possible.
+
+### Transportation
+* Poor sidewalk connectivity limits walking in certain locations and could be
+addressed during new development or retroactively for existing development.
+Sidewalk connectivity should be systematically assessed to decrease gaps in the
+sidewalk and trail system and increase accessibility to bus stops and transit
+service.
+
+* Bicycle infrastructure connectivity and accessibility remains a challenge due to
+limited funding as well as physical and natural barriers. Even so, significant
+progress has been made: the total mileage of bike facilities in the Metropolitan
+Planning Area (MPA) has increased 57 percent since 2009, which is well above the
+goal of a 15 percent increase in dedicated bike facilities and signed bike
+routes by 2014 set in the previous LRTP.
+
+* Accessibility and connectivity between buses and other modes may be facilitated
+by properly signing and better equipping some stops with shelters, lighting, and
+bike racks, as well as installing concrete landing pads for easier bus entry and
+exit (as recommended in the CUUATS Transit Facility Guidelines).
+
+* To accommodate growing ridership, the region should continue to strive to have
+100 percent coverage of residential parcels within the C-U MTD service area and
+expand the service area to be coterminous with the urbanized area as much as
+possible.
+
+* In 2004, C-U MTD investigated fixed-guideway rail lines as a potential strategy
+to improve local transit service. Though a fixed-rail system was not
+implemented, C-U MTD used the findings of this study to redesign the existing
+transit network to accomplish some of the same goals.
+
+* Automobiles are still the dominant form of transportation within the region.
+Access management guidelines, roundabout guidelines, and a complete streets
+policy were created for the region to guide regional development of automobile
+infrastructure. These guidelines should be followed to help improve safety and
+efficiency conditions as well as facilitate multi-modalism in the region.
+
+* The region should identify the needs of businesses using rail and freight
+trucks. The establishment of a freight plan would help the region identify local
+truck routes most suited for freight traffic. The identification of regional
+facilities for alternative fueling methods can also encourage more sustainable
+freight trucks.
+
+* To enhance the economic vitality of the region, Willard should remain a viable
+option for freight and travelers with continued support of multi-modal options
+to and from the airport.
+
+* Many people voiced a desire for additional regional rail connections – ideally
+with bullet trains. Amtrak ridership has continued to increase and should be
+supported regionally by increasing the number of routes serving the community.
+
+## Accessibility and Affordability
+
+This pillar expands MAP-21 factor number four (to increase accessibility and
+mobility of people and freight) to include affordability as it is closely tied
+to many forms of accessibility. Public input reflects dissatisfaction with the
+uneven distribution of businesses, housing options, and educational
+opportunities between neighborhoods, which themselves are often somewhat
+segregated along racial, ethnic, and/or income lines. Access to affordable and
+reliable transportation is essential to widening opportunities for all people by
+connecting them to jobs, schools, health care, food, and other resources.
+
+### Transportation
+* Walking or using a wheelchair on area sidewalks is a free and healthy way to
+move around the community. Sidewalk conditions and access should be
+systematically assessed to improve their conditions and decrease gaps in the
+system.
+
+* Bicycles are a cost-effective and healthy way to move around the community.
+ Bicycle safety education and enforcement, through the Champaign-Urbana Safe
+ Routes to School Project and other programs, should be recurrent activities in
+ the region to enhance the safety of all road users.
+
+* C-U MTD provides annual bus passes for only $72, presenting a much cheaper
+alternative to owning and driving a car. Public input from youth indicates a
+desire for an even cheaper pass or payment plan specifically for K-12 students.
+All C-U MTD regular fixed routes are served by buses equipped with wheelchair
+ramps that can be lowered to aid boarding. Accessibilty could be improved in
+some locations by adding concrete landing pads to facilitate easier bus entry
+and exit. In addition, the C-U MTD service area should be expanded to be
+coterminous with the urbanized area as much as possible.
+
+* Accessibility, availability, affordability, and reliability of transportation
+for people with disabilities, seniors and low-income individuals should be a
+priority. Traditionally, transit discounts have been afforded to disabled,
+youth, and seniors, under the assumption that they have trouble affording basic
+necessities. On the other hand, persons who qualify for a number of public
+assistance programs are known to have trouble affording basic necessities and
+are not necessarily provided the same discounts.
+
+* The Champaign-Urbana urbanized area hosts Zipcar, a car sharing program that
+allows program members a more affordable way to have access to a personal car
+when necessary without the expense involved in purchasing, maintaining, parking,
+and insuring one. More car sharing programs should be supported to reduce
+congestion and car dependency while increasing alternative modes of
+transportation.
+
+* Even though road infrastructure exists to access all parts of the community,
+personal automobiles are an expensive form of travel. Infrastructure for
+walking, biking, and public transit should be expanded to increase access for
+people who cannot afford to commute by car. Access management guidelines and a
+complete streets policy were created for the Champaign-Urbana Urbanized Area to
+increase safety and facilitate multimodalism.
+
+* Sixty percent of train-related public input for this plan has shown the desire
+for rail improvement in the region, including requests for bullet trains and
+cheaper and more consistent Amtrak fares. Currently, a one-way trip from
+Champaign to Chicago can cost anywhere between $15 and $39 for a coach seat
+depending on the time of travel. Amtrak ridership has continued to increase and
+should be supported regionally by providing more train frequency.
