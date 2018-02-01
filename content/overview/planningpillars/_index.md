@@ -285,3 +285,118 @@ cheaper and more consistent Amtrak fares. Currently, a one-way trip from
 Champaign to Chicago can cost anywhere between $15 and $39 for a coach seat
 depending on the time of travel. Amtrak ridership has continued to increase and
 should be supported regionally by providing more train frequency.
+
+## Healthy Neighborhoods
+This pillar developed out of a growing concern for the physical health of the
+region’s residents, as well as public conversations about the strengths and
+limitations of existing neighborhoods and housing developments. The health of
+the environment is also an important factor in planning for physical health,
+population growth, and future sustainability. Access to active forms of
+transportation infrastructure such as sidewalks, bike lanes, and public transit
+have proven to have a positive effect on combating the growing prevalence of
+obesity, heart disease, and diabetes, as well as improving the environment by
+reducing resource consumption. An emphasis on evaluating and expanding active
+transportation infrastructure should be a priority. In addition, community
+members clearly articulated a desire for more mixed use and compact development
+as well as more opportunities for affordable housing, communal space, and
+recreation within and between neighborhoods to reduce isolation and promote
+stronger social connections. This planning pillar is related to MAP-21 factor
+five, which aims to protect and enhance the environment, promote energy
+conservation, and improve the quality of life in different regions.
+
+### Environment
+* Ozone 8-hour level measurements were higher than the staterecommended level for
+the second year in a row in 2012. Additional air monitoring stations should be
+installed in the region to track air quality with a higher level of accuracy.
+
+* Water quality has declined in portions of the Saline Branch, Kaskaskia River and
+Copper Slough since 2004, shifting from either partial or full support of
+aquatic life to no support. In addition, there are currently 13 endangered and
+nine threatened species located within the region. Planners and developers
+should learn about measures to help protect and conserve these assets early in
+the design process for new projects.
+
+### Land Use
+* The United States Department of Agriculture (USDA) has identified one low-income
+Census tract in northeast Champaign and two lowincome tracts in northeast Urbana
+where a substantial number or share of people have limited access to
+supermarkets. Public input revealed that many people would like to see greater
+walking and biking access to locations and services, including food outlets,
+inside and outside their neighborhoods.
+
+* Public input reveals that many people desire more public spaces to promote
+mobility, recreation, and congregation. Multi-use paths within and between
+neighborhoods would allow opportunities for community members to connect and be
+active. Community gardens are another example of a land use that has been proven
+to positively impact the social, environmental, and physiological health of
+neighborhoods.
+
+### Transportation and Public Health
+* The rate of obesity for Champaign County has risen from 17.1 percent in 2005 to
+22.3 in 2012. Obesity increases the risk of other illnesses and health problems,
+including high blood pressure, diabetes, negative psychosocial effects, and
+premature death. Getting the amount of daily activity recommended by the CDC
+would be an efficient and cost-effective way to combat these trends. In order to
+increase residents’ daily activity, local agencies should promote active
+transportation by designing encouragement activities that use existing active
+transportation infrastructure. In addition, efforts should be made to increase
+the connectivity of the existing active transportation network and to extend
+active transportation infrastructure to locations within the MPA where that
+infrastructure is currently limited or non-existent.
+
+## Balanced Development
+This pillar is based on the desire of community members to support diverse and
+environmentally responsible types of development without encouraging sprawl or
+sacrificing important historical structures or new business opportunities. In
+addition, basic services, transit to employment centers, and quality
+infrastructure should be more evenly distributed across the region and
+reasonably accessible from every neighborhood. Community members expressed a
+clear interest in reinvigorating downtown areas by promoting urban infill, as
+well as fostering more mixed use development in different parts of the urbanized
+area. This planning pillar builds on MAP-21 planning factor number five to
+promote growth and development in a way that maximizes valuable and limited
+financial and environmental resources. In addition, this pillar reflects MAP-21
+factor number eight (that emphasizes the preservation of the existing
+transportation system) in that it incorporates the appreciation for existing
+local assets expressed in the public input received.
+
+### Land Use
+* Gross population density decreased by an average of approximately 200 people per
+square mile within the MPA since 1990. However, the decline has slowed and data
+shows that both gross population and residential density have increased in MPA
+municipalities since 2009. Taking steps to continue to increase population
+density in order to increase efficiency in the transportation system would
+respond to public input requesting more mixed use zoning in residential areas to
+increase access to services within walking and biking distance.
+
+* The public supports the continued preservation of cultural, historic, and
+archeological resources in the region including residential homes and
+neighborhoods.
+
+* The agricultural sector in the larger region is likely to experience negative
+and uneven impacts of climate change such as droughts, water shortages, excess
+precipitation, and/or the spread of pests and diseases1. To minimize sprawl and
+preserve the uniquely productive agricultural soils in our region, measures
+should be in place to prioritize infill opportunities and the redevelopment of
+underutilized existing developments rather than new construction on agricultural
+land.
+
+* The CUUATS Local Affordability and Mobility Analysis (LAMA) provides a picture
+of the quality of life in different designated areas in the urbanized area based
+on a variety of measures, including access to services, transit connectivity,
+distance to public schools, housing mix, and more. This tool allows planners to
+assess gaps in existing infrastructure and identify priority areas where
+potentially small investments could result in a significant impact, whether it
+is an added sidewalk connection or expanding transit service to a major
+employment center. This index and the concepts and measures identified in this
+framework should be utilized when siting investments in order to promote
+balanced development and maximize resources.
+
+### Environment and Public Health
+* Also relevant for the previous pillar, Healthy Neighborhoods, the United States
+Department of Agriculture (USDA) has identified one low-income Census tract in
+northeast Champaign and two low-income tracts in northeast Urbana where a
+substantial number or share of people have limited access to supermarkets.
+Public input revealed that many people would like to see greater walking and
+biking access to locations and services, including food outlets, inside and
+nearby their neighborhoods.
