@@ -150,3 +150,141 @@ each year, which bodes well for this performance measure in years to come.
 
 _Willard Airport_ This MOE receives a negative rating due to a 25% decrease in
 flights and a 3% decrease in enplanements between 2009 and 2013.
+
+## Methodology
+
+CUUATS staff, in conjunction with the LRTP Working Group, developed goals that
+will lead local agencies in the implementation of the plan. These goals are
+grouped according to the six Sustainable Choices 2040 planning pillars outlined
+in the introduction and elaborated on in Chapter 8: Planning Pillars.
+
+The goals and objectives were formulated based on a combination of the MAP-21
+priorities, State of IL transportation policy factors, local knowledge, current
+local planning efforts, and input received during Sustainable Choices 2040
+public outreach. Additionally, some of the goals and objectives included in this
+update were revised from those listed in the previous LRTP. Agencies are listed
+under each set of strategies to delineate jurisdiction and/or responsibilities.
+The goals, objectives, and strategies generally represent concepts by which
+projects should be identified, designed, and constructed.
+
+Finally, specific performance measures were developed to help CUUATS staff track
+the progress of each objective during the five year period between LRTP updates
+according to relevant and obtainable data. Each performance measure is listed in
+the same row as its specific objective in the proceeding tables. Each table
+shows the goals, objectives, performance measures, strategies, and the parties
+responsible for implementation. All the performance measures have a base year of
+2015.
+
+## Safety and Security
+
+### Map 21 National Goal
+
+* Increase the safety of the transportation system for motorized and non-motorized
+users.
+* Increase the security of the transportation system for motorized and
+non-motorized users.
+
+### Illinois State Transportation Policy Factors
+* Safety for all transportation users.
+* Security to protect the State's valuable assets and ensure the continued
+operation of the system.
+
+### Sustainable Choices for 2040 Goal
+* The Champaign-Urbana area will maintain, preserve and operate its existing
+transportation system in a safe and secure  usable state to provide safe,
+efficient and reliable movement of people, goods, services in the short term,
+and in the long term, achieve the state's goal of zero deaths and disabling
+injuries.
+
+## Resilient Economy
+### May 21 National Goal
+* Support the economic vitality of the metropolitan area, especially by enabling
+global competitiveness, productivity, and efficiency.
+
+### Illinois State Transportation Policy Factors
+* Support of global economic competitiveness.
+
+### Sustainable Choices 2040 Goal
+* The Champaign-Urbana area will have a resilient economy by supporting existing
+and emerging local as well as global business development and job creation,
+fostering quality educational options for all income levels, continuing to
+invest in forward-looking infrastructure like fiber connectivity, establishing
+strong inter-regional transportation options like bullet trains, and promoting
+inter-municipal coordination that creates and maintains a high standard of
+living and quality of life for all.
+
+## Multimodal Connectivity
+### Map 21 National Goal
+* Increase accessibility and mobility of people and freight
+* Enhance the integration and connectivity of the transportation system, across
+and between modes, for people and freight
+* Promote efficient system management and operation
+
+### Illinois State Transportation Policy Factors
+* Accommodating future growth in population and employment.
+* Securing adequate funding for maintaining, improving, and ensuring efficient
+operation of the transportation systems. Preserving and managing existing
+infrastructure.
+
+### Sustainable Choices 2040 Goal
+* The Champaign-Urbana area will aim to increase accessibility, connectivity, and
+mobility of people and freight to all areas of the region through the use of an
+interconnected multimodal system of transportation that is cost-effective for
+people, businesses, and institutions that will increase the efficiency of the
+transportation system by allowing freedom of choice in all modes of
+transportation including active modes whenever possible.
+
+## Accessibility and Affordability
+### Map 21 National Goal
+* Increase accessibility and mobility of people and freight
+
+### Illinois State Transportation Policy Factors
+* Transportation for underserved population such as the elderly, low-income, and
+person with disabilities.
+
+### Sustainable Choices 2040 Goal
+* The Champaign-Urbana area will address issues of equity as well as segregation
+ in its diverse communities in the area of transportation.
+
+## Healthy neighborhoods
+### Map 21 National Goal
+* Protect and enhance the environment, promote energy conservation, improve the
+quality of life, and promote consistency between transportation improvements and
+State and local planned growth and economic development patterns.
+
+### Illinois State Transportation Policy Factors
+* Protecting the environment.
+* Preserving and managing the existing infrastructure.
+
+### Sustainable Choices 2040 Goal
+* The Champaign-Urbana area will promote healthy communities and improve overall
+residential quality of life by strengthening existing neighborhoods and housing
+developments, evaluating and expanding active transportation infrastructure, and
+promoting energy conservation and environmental quality.
+
+## Balanced Development
+
+### MAP 21 National Goal
+
+* Protect and enhance the environment, promote energy
+conservation, improve the quality of life, and promote
+consistency between transportation improvements
+and State and local planned growth and economic
+development patterns.
+
+* Emphasize the preservation of the existing transportation
+system.
+
+### Illinois State Transportation Policy Factors
+
+* Accommodating future growth in population and employment.
+
+* Preserving and managing the existing infrastructure.
+
+### Sustainable Choices 2040 Goal
+
+* The Champaign-Urbana area will support diverse and environmentally responsible
+types of development without encouraging sprawl or sacrificing important
+historical structures or new business opportunities by reinvigorating downtown
+areas, fostering more mixed use development, and protecting and preserving
+neighborhoods and business districts that contain historic structures.
