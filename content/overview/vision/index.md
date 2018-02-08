@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Vision"
 date: 2018-02-08T14:20:52-06:00
 draft: true
 Weight: 10
