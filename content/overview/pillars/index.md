@@ -1,5 +1,5 @@
 ---
-title: "Planning Pillars"
+title: "Pillars"
 date: 2018-02-01T15:11:33-06:00
 draft: true
 Weight: 10

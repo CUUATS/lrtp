@@ -1,5 +1,5 @@
 ---
-title: "Public Health"
+title: "Health"
 date: 2018-01-31T11:07:33-06:00
 draft: true
 Weight: 10
@@ -143,7 +143,7 @@ transportation and have lower transportation costs. As shown in the HIA,
 neighborhoods with high accessibility and high mobility had significantly lower
 rates of obesity.
 
-### Mobility and Accessibility Indices 
+### Mobility and Accessibility Indices
 Though individual variables provide a rich body of information about the
 physical characteristics of an area, a long list of variable values can be
 difficult to understand and interpret. Indices offer a way of condensing

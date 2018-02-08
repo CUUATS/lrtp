@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Funding"
 date: 2018-02-08T14:36:50-06:00
 draft: true
 Weight: 10

@@ -1,5 +1,5 @@
 ---
-title: "Goals Objectives & Performance Measures"
+title: "Goals"
 date: 2018-02-01T15:40:34-06:00
 draft: true
 Weight: 10
