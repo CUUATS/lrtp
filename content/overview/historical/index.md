@@ -48,6 +48,13 @@ connecting Urbana, Champaign, and Danville. Within a decade this was extended
 beyond Springfield to St. Louis, Missouri. This line was discontinued in the
 1950s.
 
+{{<image src="streetcar.jpg"
+alt="historical photo of interurban service in city"
+caption="Champaign Main Street, 1911"
+link="http://web.engr.illinois.edu/~friedman/champaign-urbana/Pic11B-02.htm"
+position="center">}}
+
+
 ## Pre-1960 Roadway Planning
 By 1960, two major street and highway plans had been completed for
 Champaign-Urbana. Civic design classes at the University of Illinois prepared
