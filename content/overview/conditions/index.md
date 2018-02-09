@@ -4,6 +4,18 @@ date: 2018-02-02T15:52:33-06:00
 draft: true
 Weight: 10
 ---
+{{<image src="urbana.jpg"
+alt="urban walkable area of Urbana"
+caption="Urbana"
+position="right">}}
+{{<image src="crosswalk.jpg"
+alt="students and a biker cross a road"
+caption="University of Illinois campus"
+position="right">}}
+{{<image src="champaign.jpg"
+alt="automobiles use a road in downtown Champaign"
+caption="Champaign"
+position="right">}}
 The overall picture of the Champaign-Urbana region today reveals a regional
 transportation system that is able to serve its residents, businesses, and
 visitors for a variety of purposes, mobility needs, desires, and abilities. The
@@ -162,6 +174,10 @@ certain portions of the county to be developed as large wind farms. Household
 solar panels and wind turbines can offset the electricity purchased from large
 utility companies, therefore reducing our dependence on fossil fuels.
 
+{{<image src="street.jpg"
+alt="greenery surrounding a road"
+caption="Washington Street, Urbana, 2014"
+position="right">}}
 Leadership in Energy and Environmental Design (LEED) and LEEDNeighborhood
 Development (LEED-ND) are two additional tools that can be used by developers
 and municipalities to ensure sustainable and environmentally friendly
@@ -245,7 +261,10 @@ Champaign. Programs like Walk and Bike to School Days should also continue to
 raise awareness and encourage participation.
 
 ### Bicycles
-
+{{<image src="bicycles.jpg"
+alt="bicyclists use bike lanes"
+caption="Illinois Street, University of Illinois campus, 2007"
+position="right">}}
 Biking and walking have become a more viable option for travel in the urbanized
 area since the last LRTP update in 2009 and will continue to be important
 through 2040. As gas prices rise and active transportation options become more
@@ -347,7 +366,10 @@ also made a point to include more efficient, environmentally friendly
 technologies when updating their administrative and maintenance facilities. As
 the transportation system continues to evolve, CU-MTD has served as an effective
 leader in adapting to new, greener technologies.
-
+{{<image src="mtd.jpg"
+alt="buses wait at a bus terminal"
+caption="C-U MTD buses at Illinois Terminal, Champaign, 2014"
+position="right">}}
 Finally, CU-MTD will continue to work on increasing public access to
 transportation information for active transportation modes using the latest
 technologies and information sharing methods. Increasing the use of the
@@ -490,7 +512,10 @@ vehicles on the roadway. The establishment of park and ride facilities,
 particularly in fringe areas, will help capture trips from commuters coming from
 outside the urbanized area for employment as well as urbanized area residents
 living on the fringe of the community.
-
+{{<image src="car.jpg"
+alt="a rental car waits outside of a bus terminal"
+caption="Zipcar parking at Illinois Terminal, Champaign, 2012"
+position="right">}}
 The automobile is the most popular form of transportation in the urbanized area,
 and transportation planners are always looking for ways to make the current
 street network safer and more efficient for drivers and tax payers. The
@@ -560,7 +585,18 @@ opportunities as well as a tourism destination for those wishing to enjoy the
 Central Illinois scenery by foot or bike. Similar trails opportunities should be
 pursued to connect Champaign to Bloomington and Champaign-Urbana to other
 regional and natural attractions.
-
+{{<image src="runway.jpg"
+alt="airport runway photo from the air"
+caption="Willard Airport photo by Mark Pasqualino in 2006, downloaded from www.airportdata.com in 2014"
+position="center">}}
+{{<image src="train.jpg"
+alt="a train waits at a station"
+caption="Amtrak at Illinois Terminal, 2012"
+position="center">}}
+{{<image src="airport.jpg"
+alt="interior of an airport"
+caption="Willard Airport ‘welcome’ sign photo by Frank L in 2010, downloaded from www.yelp.com in 2014"
+position="center">}}
 ### Air Travel
 
 Having a commercial airport within the urbanized area provides a distinct

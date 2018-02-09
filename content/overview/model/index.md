@@ -154,7 +154,10 @@ employment targets input into LEAM to estimate growth patterns as an output for
 the 2040 planning horizon. Purple zones are used in both 2040 scenarios, and the
 yellow zones are areas of higher growth expected only in the Sustainable Choices
 2040 scenario, (Figure 11.4).
-
+{{<image src="green.jpg"
+alt="a roadway in the snow with buses and pedestrians"
+caption="Green Street, Urbana, 2014"
+position="right">}}
 LEAM assigns population and employment to the target areas (growth zones) and
 after these areas have their targets fulfilled, LEAM takes the remaining
 population and employment projected countywide and assigns it using its
