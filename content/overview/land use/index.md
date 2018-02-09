@@ -73,6 +73,18 @@ and Other land use categories, whose definitions have changed since 2009, which
 makes comparisons to previous years difficult.
 
 ### Archaeological and Historical Sites
+{{<image src="cinema.jpg"
+alt="the sign of the urbana cinema"
+caption="Cinema in Urbana, opened in 1941"
+position="right">}}
+{{<image src="observatory.jpg"
+alt="observatory surrounded by trees"
+caption="Astronomical Observatory at the University of Illinois, designed by Architect Charles A. Gunn in 1896"
+position="right">}}
+{{<image src="theater.jpg"
+alt="a well lit theater interior"
+caption="Virginia Theater in Champaign, opened in 1921"
+position="right">}}
 Cultural, historical, and archeological resources in the MPA include significant
 buildings, sites, districts, structures, and objects. Figure 4.4 displays
 locations and types of archeological and historical resources – the majority of
