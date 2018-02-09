@@ -31,7 +31,10 @@ member agencies of CUUATS are the City of Champaign, the City of Urbana, the
 Village of Savoy, the University of Illinois, Champaign County, the Champaign
 Urbana Mass Transit District (CUMTD), the Illinois Department of Transportation
 (IDOT), and CCRPC.
-
+{{<image src="lrtpbus.jpg"
+alt="Community members engage with Community Conversations Bus"
+caption="Community Conversations Bus, Savoy Orchard Days, September 2013"
+position="right">}}
 All CUUATS member agencies set forth approaches in this
 document to achieve accessibility, mobility, and regional connectivity
 improvement goals that pavement alone cannot provide, particularly in terms of
@@ -41,11 +44,6 @@ future investments and enhances the findings of Choices 2035, Champaign-Urbanaâ€
 previous LRTP, by using improved modeling tools and a dramatically expanded
 public involvement campaign to more clearly define the regionâ€™s transportation
 issues and identify a future vision along with strategies to realize it.
-
-{{<image src="Introduction 2.jpg"
-alt="Community members engage with Community Conversations Bus"
-caption="Community Conversations Bus, Savoy Orchard Days, September 2013"
-position="right">}}
 
 
 ## Champaign-Urbana MPO and LRTP Performance measures
@@ -162,6 +160,18 @@ region that have contributed to the development of the 2040 vision:
 * Champaign-Urbana-Savoy Regional ITS Architecture. CUUATS, 2005.
 
 ## Integrating Federal, State, and Local Priorities Into The LRTP
+{{<image src="taylorstreet.jpg"
+alt="people walk around on a sidewalk"
+caption="Intersection of Taylor Street and Neil Avenue in Champaign"
+position="left">}}
+{{<image src="park.jpg"
+alt="a park and pond that is formed from a creek"
+caption="Boneyard Creek in Champaign"
+position="left">}}
+{{<image src="crosswalk.jpg"
+alt="photo of crosswalk with cars stopped at a stop sign"
+caption="Sixth Street in University of Illinois Campus"
+position="left">}}
 The performance-based investment decisions and targets required by MAP-21 should
 be coordinated with those of relevant national, state, and local agencies,
 including IDOT and public transportation providers, to ensure consistency.
@@ -179,7 +189,7 @@ community that the plan is based on. Some current challenges facing the
 Champaign-Urbana area, the metropolitan planning process, the state, and the
 nation include:
 
-* Pressures from continued population and employment growth and concurrent
+* pressures from continued population and employment growth and concurrent
 * demands on infrastructure capacity and maintenance; Community expectations for
 * economic development which are integrally tied to transportation improvements
 * and maintenance; Fulfilling important investment commitments in the context of
