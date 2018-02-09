@@ -65,6 +65,10 @@ the sidewalk network in the urbanized area to better understand issues of
 mobility, accessibility, and connectivity.
 
 ### Pedestrian Safety
+{{<image src="intersection.jpg"
+alt="a bike and automobiles wait at a stop light in an urban area"
+caption="APS on the SE corner of Race Street and Main Street in Urbana, 2014"
+position="right">}}
 Accessible pedestrian signals provide an audible or other non-visual cue about
 the WALK and DON’T WALK intervals at signalized intersections to visually
 impaired pedestrians. Overall, there are 31 accessible pedestrian signals in the
@@ -189,7 +193,10 @@ share the road, especially when bikers or drivers don’t follow the same rules 
 the road. Bicycling is the only transportation mode that is consistently used by
 an average of 15 percent of all respondents in every age group (Figure 7.9).
 Figure 7.10 shows the bike comments that were able to be mapped.
-
+{{<image src="intersection.jpg"
+alt="a bike and automobiles wait at a stop light in an urban area"
+caption="Race Street and Main Street, Urbana, 2014"
+position="center">}}
 ## Transit
 Buses are an excellent and inexpensive option for traveling around the
 Champaign-Urbana community and across the region. Buses are able to accommodate
@@ -290,6 +297,10 @@ and trip purposes. More detailed information can be found in the C-U Urbanized
 Area Human Services Transportation Plan.
 
 ### Intercity Bus System
+{{<image src="ccarts.jpg"
+alt="the front of a rural transit bus"
+caption="C-CARTS Transit Vehicle, 2014"
+position="right">}}
 A variety of intercity transportation options are available in the urbanized
 area, ranging from charter service to weekend service for University of Illinois
 students. Outgoing schedules are provided for those services that have Champaign
@@ -299,6 +310,18 @@ compared to air and passenger rail (Table 7.10 and Table 7.11). Between 2009 and
 to the closure of a bus transport company.
 
 ## Public Input: Transit
+{{<image src="crosswalkbus.jpg"
+alt="a pedestrian finishes walking across a crosswalk while a bus passes"
+caption="University of Illinois campus"
+position="right">}}
+{{<image src="bikerackbus.jpg"
+alt="a person loads a bike onto the bus bike rack"
+caption="Champaign Illinois Terminal"
+position="right">}}
+{{<image src="snowbus.jpg"
+alt="a bus loads passengers while it snows outside"
+caption="University of Illinois campus, 2012"
+position="right">}}
 Of the comments received regarding transit in the community, only five percent
 refer to the network as “dangerous.” There were just as many comments that
 referred to the system as “functions well” as there were comments referring to
@@ -382,12 +405,16 @@ The number of crashes in the urbanized area per the total vehicle miles traveled
 number of vehicle miles traveled in the region and the number of crashes
 provides information about crashes that took place between automobiles and other
 modes of transportation.
-
+{{<image src="downtown.jpg"
+alt="automobiles use a one-way road in an urban area"
+caption="Downtown Champaign, 2012"
+position="right">}}
 The VMT data were obtained from the IDOT’s annually published Illinois Travel
 Statistics. Table 7.13 shows the VMT information for the Champaign-Urbana area.
 Table 7.13 and Figure 7.17 show that the number of crashes per 100 million VMT
 in Champaign-Urbana has been decreasing since 2008 and is consistently lower
 than the statewide rates.
+
 
 ### Traffic Crash Fatalities
 Figure 7.18 shows fatalities per 100 million VMT from 2007 to 2011 in Champaign
@@ -427,6 +454,10 @@ Figure 7.21 identifies the location of the fatal and severe crashes along the
 major corridors in Champaign-Urbana between 2007 and 2011.
 
 ### Selected Critical Intersection Locations
+{{<image src="road.jpg"
+alt="a large amount of vehicles use a congested roadway"
+caption="Kirby Avenue in Champaign, 2010"
+position="right">}}
 The volume of traffic, crash frequency, crash rate, and crash severity for
 intersections help CUUATS staff prioritize intersection improvements across the
 region. Based on the critical intersection selection priority levels criteria,
@@ -443,6 +474,10 @@ region, pavement conditions have remained relatively stable from 2009 to 2012
 (Table 7.19 and Table 7.20).
 
 ### Alternative Fuel Infrastructure
+{{<image src="cracks.jpg"
+alt="cracked pavement"
+caption="St. Mary's Road, 2007"
+position="right">}}
 In the past decade, automobiles that run on something other than gasoline have
 become more common. As a result, there are several alternative fueling stations
 to accommodate this trend in the Champaign- Urbana Metropolitan Planning Area
@@ -452,6 +487,18 @@ stations that sell ethanol (E85), and several locations for charging electric
 vehicles.
 
 ## Public Input: Automobiles
+{{<image src="street.jpg"
+alt="a street with bike lanes and pedestrian facilities"
+caption="First STreet and Armory, Champaign, 2011"
+position="right">}}
+{{<image src="overpass.jpg"
+alt="a road overpasses another by use of a bridge"
+caption="Interstate 57, 2012"
+position="right">}}
+{{<image src="crossing.jpg"
+alt="automobiles use a one-way street in an urban area"
+caption="Neil Street in downtown Champaign, 2012"
+position="right">}}
 Of all the respondents over 30 years of age, an average of 52 percent rely on a
 car to get around the community in a typical week. Many of the “needs
 improvement” comments regarding cars involved congestion and parking. The
@@ -489,8 +536,12 @@ urbanized area. Trucks generally deliver during business hours, which can strain
 local traffic conditions for other transportation modes. In places that are not
 equipped for deliveries by trucks of all sizes, delivery trucks are forced to
 block off roads and stop traffic when loading and unloading.
+{{<image src="wreck.jpg"
+alt="a truck wrecks into a railroad bridge due to clearance issue"
+caption="Freight truck stuck under viaduct on Springfield Avenue in Champaign, 2013, photo by Darrell Hoemann, The News Gazette"
+position="center">}}
 
-### Commercial Truckt ADT
+### Commercial Truck ADT
 Generally, the heaviest truck traffic, including commercial trucks, occurs on
 highways and arterials with less truck traffic on routes in the core of the
 urbanized area or local roads (Figure 7.23 and Figure 7.24).
@@ -566,8 +617,16 @@ Table 7.26 shows the reason for flight delays in 2012. The table illustrates
 that aircraft arrival delay, air carrier delay, and aviation systems are the
 major contributers to flight delays at Willard Airport, although adverse weather
 plays a role as well.
+{{<image src="airport.jpg"
+alt="a fountain is in front of an airport entrance"
+caption="Willard Airport, Village of Savoy"
+position="center">}}
 
 ## Public Input: Trains and Airplanes
+{{<image src="station.jpg"
+alt="a train waits at a station"
+caption="Illinois Terminal, Champaign, 2012"
+position="right">}}
 Only four percent of all the comments received are in reference to train or
 plane travel. Over 25 percent of train comments were in reference to wanting a
 high speed, or bullet, rail line in the area. Despite a few suggestions for

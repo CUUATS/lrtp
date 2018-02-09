@@ -42,8 +42,16 @@ from the visioning meetings are included in the analysis of the public
 involvement for the LRTP: Sustainable Choices 2040 which is encompassed in the
 six planning pillars described in this chapter, and around which the goals,
 objectives, and performance measures are defined in Chapter 9.
+{{<image src="meeting.jpg"
+alt="public officials meet with young people"
+caption="LRTP 2040 Youth Visioning Meeting, November 2, 2013 at the Champaign Public Library, Artist: David Michael Moore"
+position="center">}}
 
 ## Sustainable Choices 2040 Planning Pillars
+{{<image src="public.jpg"
+alt="people write on public input boards"
+caption="LRTP 2040: Existing Conditions public meeting, October 2013, Illinois Terminal, Champaign"
+position="right">}}
 The six Sustainable Choices 2040 planning pillars (Figure 8.5) are a result of
 coalescing the results of extensive research and data collection (Chapters 2-7),
 an ambitious and innovative public outreach campaign (Appendix A), and the
