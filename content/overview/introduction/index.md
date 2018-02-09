@@ -42,6 +42,12 @@ previous LRTP, by using improved modeling tools and a dramatically expanded
 public involvement campaign to more clearly define the region’s transportation
 issues and identify a future vision along with strategies to realize it.
 
+{{<image src="Introduction 2.jpg"
+alt="Community members engage with Community Conversations Bus"
+caption="Community Conversations Bus, Savoy Orchard Days, September 2013"
+position="right">}}
+
+
 ## Champaign-Urbana MPO and LRTP Performance measures
 The federal transportation legislation, Moving Ahead for Progress in the 21st
 Century (MAP-21), requires MPOs to develop a performance-based approach to
