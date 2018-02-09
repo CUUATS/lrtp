@@ -63,6 +63,10 @@ groups from 0 to 39 years of age, and more females in the age groups from 40 to
 Census population for the urbanized area.
 
 ### Race and Ethnicity
+{{<image src="crowd.jpg"
+alt="a crowd of people talk to LRTP officials"
+caption="Community Conversations Bus, St. Mary's Church, Champaign, October 2013"
+position="left">}}
 The majority of the urbanized area population is white, although the percentage
 of white population has fallen 5.7 percent since 2000 (Table 3.1). The second
 largest racial group is black or African Americans, which has increased 3.6
@@ -191,3 +195,7 @@ Table 3.12 shows travel time to work for workers in the region. In Champaign,
 Urbana, and Savoy, a majority of workers have less than a 15-minute commute. In
 Tolono and Bondville, most workers have a commute between 15 and 29 minutes.
 Overall, the mean travel time in the urbanized area is less than 20 minutes.
+{{<image src="streetscape.jpg"
+alt="a street with pedestrians, cars, and bikers"
+caption="Commuting on University of Illinois Campus"
+position="center">}}
