@@ -87,7 +87,10 @@ from cars. Since 2004, CUUATS staff has worked with 23 area schools to
 facilitate sustainable and active transportation for school children through
 activities that include administering and analyzing surveys, creating safe
 walking route maps, and creating Safe Routes to School Plans.
-
+{{<image src="bikers.jpg"
+alt="people bike across a crosswalk"
+caption="Yankee Ridge Bike to School Day, Urbana, 2013, photo courtesy of C-U Safe Routes to School Project"
+position="center">}}
 ## Health Impact Assessment
 CUUATS staff recently completed an extensive Health Impact Assessment (HIA) to
 analyze the impact of transportation and the built environment on population
