@@ -76,6 +76,9 @@ urbanized area and the county show similar trends in Hispanic versus
 non-Hispanic populations, which are 6 and 94 percent, respectively. For the
 Hispanic population of the urbanized area, this is a 2.5 percent increase in the
 percentage of the total population since 2000.
+{{<table url="table3-1-1.csv"
+title="Urbanized Area and Champaign County Race and Ethnicity (2010)"
+source="US Census Bureau, 2000 & 2010 Decennial Census, (Tables P8 & P9)">}}
 
 ## Education, Income, Poverty, and Disability
 According to the 2010 American Community Survey (ACS), nearly 94 percent of the
