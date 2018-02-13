@@ -15,7 +15,7 @@ operates most effectively when all these different processes can work together
 to facilitate safe and efficient access and mobility from different points in
 the community to serve each of our daily needs.
 
-## ROUTINE IMPLEMENTATION TASKS
+## Routine Implementation Tasks 
 
 Plan implementation also involves certain standard routine tasks that can be
 considered on two levels: project-related implementation, and concept-related
