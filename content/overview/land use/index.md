@@ -34,7 +34,7 @@ foster an efficient balance of mixed uses, such as housing, education,
 employment, recreation, retail, and service opportunities, to maximize the
 benefits of geographic proximity.
 
-### Population Density
+## Population Density
 Population density is compared for all cities and villages within the
 Metropolitan Planning Area (MPA) over a 20-year time span. The analysis was
 performed through a measure of gross municipal density for the years 1990, 2000,
@@ -61,7 +61,7 @@ and Savoy which was a contributing factor to the indicated decline in the
 density. Residential densities in each municipality have increased overall since
 2008.
 
-### Acreage Per Land Use Category
+## Acreage Per Land Use Category
 Agriculture remains the biggest land use within the MPA, although there was an
 estimated reduction of 7.6 percent of agricultural land acreage between 2009 and
 2012. The Private Open Space classification between 2009 and 2011 is
@@ -72,7 +72,7 @@ not experienced a significant change since 2009, with the exception of Utilities
 and Other land use categories, whose definitions have changed since 2009, which
 makes comparisons to previous years difficult.
 
-### Archaeological and Historical Sites
+## Archaeological and Historical Sites
 {{<image src="cinema.jpg"
 alt="the sign of the urbana cinema"
 caption="Cinema in Urbana, opened in 1941"
