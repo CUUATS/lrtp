@@ -237,7 +237,18 @@ project basis. Only those projects that have established agreements with the
 County for urbanized area transportation projects, as documented in the FY
 2015-2018 TIP can be considered reasonably guaranteed. At this time, estimated
 funding from the County is $1,100,000 for the 25-year planning horizon.
-
+{{<image src="construction-1.jpg"
+alt="roadway construction"
+caption="Source: McKinley Avenue north of Springfield Avenue, Champaign"
+position="right">}}
+{{<image src="construction-2.jpg"
+alt="roadway construction"
+caption="Windsor Road, Urbana"
+position="right">}}
+{{<image src="construction-3.jpg"
+alt="roadway construction"
+caption="Busey Avenue, Urbana, 2014"
+position="right">}}
 The Champaign-Urbana Mass Transit District receives an allocation from the state
 and uses its local revenues to cover operations and maintenance for its system.
 CU-MTD estimates that there will be $977,900,000 in revenues that will fully
@@ -296,7 +307,10 @@ years. The costs listed for each project reflect the total cost and not
 necessarily the costs associated to the agency listed. Some of the projects
 involve multiple agencies, and cost-sharing agreements will be put in place.
 These projects are shown in Table 13.13 as well as in Figure 13.2.
-
+{{<image src="court-house.jpg"
+alt="a crosswalk infront of the county courthouse"
+caption="Urbana, 2014"
+position="right">}}
 The implementation of the local projects described in the following tables are
 not the responsibility of CUUATS or the Champaign County Regional Planning
 Commission. These projects have been included in the LRTP to highlight local

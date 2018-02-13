@@ -111,13 +111,16 @@ the inability to realize the social, environmental, and health goals set forth
 in this plan. Diverging from the status quo requires openness to new ideas. In
 order to realize these goals, there are numerous obstacles to overcome.
 
-###Safety and Security
+### Safety and Security
 
 This planning pillar defines safety and security as including crash data
 statistics, tracking and understanding regional commodity flows as they relate
 to hazardous materials and potential exposure, and coordinating with agencies in
 charge of emergency vehicle access.
-
+{{<image src="crosswalk-1.jpg"
+alt="crosswalk across a wide road"
+caption="Accessible Pedestrian Signal on Bradley Avenue, Champaign, 2010"
+position="right">}}
 **Obstacle:** According to the Center for Disease Control (CDC), automobile crashes are the
 leading cause of death for those aged 5-34 in the United States. Despite the
 best efforts of transportation planners, engineers, and vehicle operators, cars
@@ -304,7 +307,10 @@ development should include steps to ensure connectivity for active modes of
 transportation including walking and/or biking connections to transit stops
 where appropriate. Site design and development standards should be reviewed and
 improved cooperatively by the relevant jurisdictions in the urbanized area.
-
+{{<image src="urbana-1.jpg"
+alt="commercial properties in a urban area"
+caption="Main Street, Urbana, 2014"
+position="right">}}
 **Obstacle:** Consumer preferences, market forces, and government policies creating incentives
 and disincentives can determine how a community develops. For the most part
 these forces (e.g. interest rates, overall economic growth, state and federal
@@ -351,3 +357,7 @@ conditions. Proactive planning must be used to foresee these changes as time
 progresses so costly reactionary measures can be avoided. In summary, the
 success of this plan depends on the effort local agencies and residents put into
 its implementation.
+{{<image src="bike-1.jpg"
+alt="a child uses a bike in a park"
+caption="Main Street, Urbana, 2014"
+position="center">}}

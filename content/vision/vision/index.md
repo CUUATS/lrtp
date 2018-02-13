@@ -127,6 +127,14 @@ higher Amtrak frequency and eventual installation of a separate high speed rail
 corridor. In addition, the map shows the rails-to-trails project connecting east
 to Kickapoo State Park and west to Bloomington, as well as vehicle access to
 Interstates 57, 72, and 74.
+{{<image src="render-1.jpg"
+alt="architectural render of a large building"
+caption="Proposed mixed-use project along University Avenue"
+position="right">}}
+{{<image src="render-2.jpg"
+alt="architectural render of a road and sidewalk"
+caption="Proposed improvements of the intersection of Wright Street and University Avenue"
+position="right">}}
 
 The vision’s purpose is to encourage discussion about how residents, travelers,
 and local agencies can work together to provide a transportation network that
@@ -203,6 +211,15 @@ benefits of using them.
 Work with local enforcement officers to assure public obedience of rules of the
 road and local agency regulations, coupled with education, to ensure safety for
 all roadway users.
+{{<image src="before-render-1.jpg"
+alt="street and buildings on a summer day"
+caption="Source: RATIO Architects"
+position="center">}}
+{{<image src="after-render-1.jpg"
+alt="new trail render across a street"
+caption="Source: RATIO Architects"
+position="center">}}
+
 
 ## Sustainable Choices 2040: Transit, Rail, and Air Vision
 
@@ -332,20 +349,26 @@ The remaining section of Curtis Road, between Staley Road and Rising Road, is
 proposed to be upgraded to improve safety with multi-use trails on both sides of
 the roadway.
 
-###5. Curtis Road grade separation at US 45 (Choices 2035)
+### 5. Curtis Road grade separation at US 45 (Choices 2035)
 
 This grade separation just east of the Curtis Road and US 45 intersection will
 provide a safer crossing of the railroad tracks than the current atgrade
 crossing. This improvement will also compliment other recent and proposed Curtis
 Road improvements.
 
-###6. Curtis Road Corridor Study between First Street and IL-130 (Choices 2035)
-
+### 6. Curtis Road Corridor Study between First Street and IL-130 (Choices 2035)
+{{<image src="road-render-before-1.jpg"
+alt="roadway through agricultural land"
+caption="Source: Staley/Rising Road Corridor Study: Plan Recommendations, Figure 3.5"
+position="left">}}{{<image src="road-render-after-1.jpg"
+alt="render of road with housing and walkability"
+caption="Source: Staley/Rising Road Corridor Study: Plan Recommendations, Figure 3.5"
+position="left">}}
 This section is proposed for a Corridor Planning Study to determine a
 context-sensitive design that will increase safety for all road users while
 remaining compatible with adjacent land uses.
 
-###7. IL-130/High Cross Road widening with medians from Florida
+### 7. IL-130/High Cross Road widening with medians from Florida
 Avenue to Curtis Road (Choices 2035)
 
 This project involves reconstructing the segment of IL 130 between Florida
@@ -353,21 +376,19 @@ Avenue and Curtis Road. No specific road design is being proposed at this time.
 The section of IL 130 from University Avenue to Windsor Road is currently being
 reconstructed as a four-lane section with medians.
 
-###8. Florida Avenue extension to IL-130/High Cross Road (Choices 2035 and
-###Public Choice)
+### 8. Florida Avenue extension to IL-130/High Cross Road (Choices 2035 and Public Choice)
 
 Florida Avenue does not currently intersect with IL-130 forcing traffic to use
 other east/west roadways such as Washington Street or Windsor Road for access to
 IL-130. Extending Florida Avenue will provide a more efficient connection for
 all modes. Adjacent development will assist in funding this extension.
 
-###9. Possible interchange location with I-74 in East Urbana
-(Choices 2035)
+### 9. Possible interchange location with I-74 in East Urbana (Choices 2035)
 
 This project would provide funding for the completion of a new interchange just
 east of Urbana along I-74.
 
-###10. Preservation of rural roadway character (Choices 2035)
+### 10. Preservation of rural roadway character (Choices 2035)
 
 IL- 130/High Cross Road Corridor Study recommendations for High Cross Road
 between University Avenue north to Olympian Road and for Olympian Road between
@@ -382,7 +403,7 @@ Drive and Lincoln Avenue has received federal and state funding for engineering
 and construction, but the remaining portion from Lincoln Avenue to US 45 hasn’t
 received funding.
 
-###12. I-57/I-74 interchange reconstruction (Public Choice)
+### 12. I-57/I-74 interchange reconstruction (Public Choice)
 
 This project would replace the clover-leaf interchange (which are no longer
 compliant with modern safety standards) with an upgraded interchange. A redesign
@@ -390,19 +411,24 @@ option has been selected by IDOT and approved by the Federal Highway
 Administration (FHWA).
 
 ### 13. Bradley Avenue over I-57 structure replacement (Public Choice)
-
+{{<image src="road-bridge-1.jpg"
+alt="a road and a bridge"
+caption="Source: CUUATS"
+position="left">}}
+{{<image src="road-bridge-2.jpg"
+alt="render of a road with bike and pedestrian lanes"
+caption="Source: CUUATS"
+position="left">}}
 This project proposes replacing this structure as a complete street to include
 bike and pedestrian facilities to increase safety (Figure 12.12).
 
-###14. Prospect Avenue congestion mitigation from Springfield Avenue to Bradley
-###Avenue (Public Choice)
+### 14. Prospect Avenue congestion mitigation from Springfield Avenue to Bradley Avenue (Public Choice)
 
 This section of Prospect Avenue emerged as a weakness in the transportation
 system during the LRTP public outreach. People complained about congestion
 and/or access for all modes of travel in this area.
 
-###15. IL 10/Springfield Avenue and Mattis Avenue intersection safety
-###improvements (Public Choice)
+### 15. IL 10/Springfield Avenue and Mattis Avenue intersection safety improvements (Public Choice)
 
 This is a large intersection with high traffic volumes and a high number of
 crashes relative to other intersections in the urbanized area. This project
@@ -410,8 +436,7 @@ proposes implementing intersection improvements targeted at improving automobile
 traffic flow and safety conditions for all modes. A study needs to be completed
 to determine the type of improvements needed.
 
-### 16. Duncan Road complete street widening from Springfield Avenue to Kirby
-### Avenue (Public Choice)
+### 16. Duncan Road complete street widening from Springfield Avenue to Kirby Avenue (Public Choice)
 
 Significant residential growth has taken place along and around Duncan Road
 between Springfield Avenue and Kirby Avenue creating higher traffic volumes than
@@ -419,35 +444,29 @@ in the past. This project would improve Duncan Road to include bike and
 pedestrian facilities (complete street) and possibly additional automobile
 lanes.
 
-###17. Kirby Avenue over I-57 structure replacement (Public Choice)
+### 17. Kirby Avenue over I-57 structure replacement (Public Choice)
 
 This project proposes replacing this structure as a complete street to include
 bike and pedestrian facilities to increase safety.
 
-### 18. Windsor Road complete street widening from Mattis Avenue to Duncan Road
-### (Public Choice)
+### 18. Windsor Road complete street widening from Mattis Avenue to Duncan Road (Public Choice)
 
 This section of Windsor Road narrows from four lanes to two lanes west of Mattis
 Avenue. This project would widen Windsor Road to include bike and pedestrian
 facilities (complete street) and possible additional vehicle lanes.
 
-### 19. Mattis Avenue complete street widening from Windsor Road to Curtis Road
-### (Public Choice)
+### 19. Mattis Avenue complete street widening from Windsor Road to Curtis Road (Public Choice)
 
 This section of Mattis Avenue currently narrows to two lanes south of Windsor
 Road. This proposed project would widen Mattis Avenue to include bike and
 pedestrian facilities (complete street) and possible additional vehicle lanes.
 
-### 20. St Mary’s Road complete street resurfacing and road diet from Neil
-### Street to Fourth Street (Public Choice)
+### 20. St Mary’s Road complete street resurfacing and road diet from Neil Street to Fourth Street (Public Choice)
 
 This project would upgrade St. Mary’s Road to include facilities for all modes
 including installing bike lanes and sidewalks where there aren’t any currently.
 
-###21. - 24. Complete street reconstruction for Green Street from Neil Street to
-###Fourth Street and Wright Street to Race Street; White Street from Second
-###Street to Wright Street; Wright Street from White Street to Armory Avenue;
-###and Armory Avenue from Wright Street to Fourth Street, (MCORE)
+### 21. - 24. Complete street reconstruction for Green Street from Neil Street to Fourth Street and Wright Street to Race Street; White Street from Second Street to Wright Street; Wright Street from White Street to Armory Avenue; and Armory Avenue from Wright Street to Fourth Street, (MCORE)
 
 In 2009, CU-MTD instituted high capacity transit routes to serve the core of the
 urbanized area where greater transit frequency was needed. To enhance what has
@@ -455,24 +474,24 @@ already been implemented, CU-MTD was awarded a federal TIGER grant in 2014 to
 implement an upgraded multi-modal network of roads including on-street bike
 lanes, shared lane markings, bus-only lanes, and other transit services.
 
-###25. IL 47 Improvements (Mahomet)
+### 25. IL 47 Improvements (Mahomet)
 
 Separate turn lanes at I-74, Franklin Street, Main Street, and US 150.
 
-###26. IL 47 Improvements (Mahomet)
+### 26. IL 47 Improvements (Mahomet)
 
 Complete the three-lane pavement section on IL 47/Division Street from US 150 to
 Mid- American Road.
 
-###27. Prairie Road Improvements (Mahomet)
+### 27. Prairie Road Improvements (Mahomet)
 
 Separate turn lanes at Golf Drive and Tin Cup Drive. Improve I-74 exit ramps.
 
-###28. US 150 Improvements (Mahomet)
+### 28. US 150 Improvements (Mahomet)
 
 Turn lanes at Turkey Farm Road and Main Street. Complete three lane section from
 Turkey Farm Road to IL 47/Division Street. Realign the intersections of Main
 Street with US 150 and State Street with Franklin Street.
 
-###29. State Street Improvements (Mahomet)
+### 29. State Street Improvements (Mahomet)
 Provide three lanes on State Street from Crowley Road to Franklin Street.
