@@ -2,7 +2,7 @@
 title: "Future Conditions"
 date: 2018-02-02T15:52:33-06:00
 draft: true
-Weight: 10
+Weight: 30
 ---
 {{<image src="urbana.jpg"
 alt="urban walkable area of Urbana"

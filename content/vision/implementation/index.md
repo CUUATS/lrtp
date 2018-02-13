@@ -2,7 +2,7 @@
 title: "Implementation"
 date: 2018-02-08T14:43:16-06:00
 draft: true
-Weight: 10
+Weight: 70
 ---
 Implementing the LRTP is not only about completing the projects identified in
 the plan but also taking steps to incorporate the broader goals and objectives
@@ -15,7 +15,7 @@ operates most effectively when all these different processes can work together
 to facilitate safe and efficient access and mobility from different points in
 the community to serve each of our daily needs.
 
-## Routine Implementation Tasks 
+## Routine Implementation Tasks
 
 Plan implementation also involves certain standard routine tasks that can be
 considered on two levels: project-related implementation, and concept-related

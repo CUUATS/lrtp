@@ -2,7 +2,7 @@
 title: "Goals"
 date: 2018-02-01T15:40:34-06:00
 draft: true
-Weight: 10
+Weight: 20
 ---
 ## Purpose
 The formulation of goals and objectives determines what direction planning

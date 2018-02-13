@@ -2,7 +2,7 @@
 title: "Vision"
 date: 2018-02-08T14:20:52-06:00
 draft: true
-Weight: 10
+Weight: 50
 ---
 This chapter sets forth a vision for each mode of transportation in the
 urbanized area through the year 2040. This vision is meant to be general and

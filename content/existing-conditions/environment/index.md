@@ -2,7 +2,7 @@
 title: "Environment"
 date: 2018-01-31T09:24:19-06:00
 draft: true
-weight: 10
+weight: 30
 ---
 It is critical to consider the natural environment when accounting for the
 short- and long-term impacts of transportation decisions. In connection with new

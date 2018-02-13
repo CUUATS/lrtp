@@ -2,7 +2,7 @@
 title: "Modeling"
 date: 2018-02-08T14:14:55-06:00
 draft: true
-Weight: 10
+Weight: 40
 ---
 With the analysis of existing transportation, socio-economic, land use, and
 environmental conditions of Champaign County (in some aspects) and the

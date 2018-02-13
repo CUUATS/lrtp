@@ -2,7 +2,7 @@
 title: "Funding"
 date: 2018-02-08T14:36:50-06:00
 draft: true
-Weight: 10
+Weight: 60
 ---
 The 25-year vision for the urbanized area transportation system is defined, in
 part, by how much money there is to fund the infrastructure projects needed to

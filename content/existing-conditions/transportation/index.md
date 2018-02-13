@@ -2,7 +2,7 @@
 title: "Transportation"
 date: 2018-01-31T11:32:41-06:00
 draft: true
-Weight: 10
+Weight: 50
 ---
 This section of the LRTP: Sustainable Choices 2040 will detail infrastructure,
 safety, and mode use for the following modes of transportation within the
