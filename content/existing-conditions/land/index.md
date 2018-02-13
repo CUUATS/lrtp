@@ -2,7 +2,7 @@
 title: "Land Use"
 date: 2018-01-30T14:31:25-06:00
 draft: true
-Weight: 10
+Weight: 20
 
 ---
 Land use and planning principles are critical to understanding the impact of
