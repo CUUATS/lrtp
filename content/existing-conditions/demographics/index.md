@@ -131,12 +131,7 @@ title="Urbanized Area Population With A Disability (2012)"
 source="US Census Bureau, Census 2008-12 ACS">}}
 {{<table url="table3-5.csv"
 title="Urbanized Area Poverty Status By Age"
-source="US Census Bureau. Decennial Census 2000 and ACS 5-Year Data 2006-2010 (Table B17001).
-Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.
-Due to rounding, totals may not equal 100.
-In a comparison study between Census 2000 income data and the 2000 ACS, income collected in Census 2000 was found
-to be about 4 percent higher than that in the 2000 ACS. For more information on the differences of income in the ACS
-and Census 2000, see Income in the American Community Survey: Comparison to Census 2000. (www.census.gov)">}}
+source="US Census Bureau. Decennial Census 2000 and ACS 5-Year Data 2006-2010 (Table B17001). Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville. Due to rounding, totals may not equal 100. In a comparison study between Census 2000 income data and the 2000 ACS, income collected in Census 2000 was found to be about 4 percent higher than that in the 2000 ACS. For more information on the differences of income in the ACS and Census 2000, see Income in the American Community Survey: Comparison to Census 2000. (www.census.gov)">}}
 
 ### Households
 Household size is an indicator of population distribution and density within the
@@ -148,8 +143,7 @@ consistent in percent of total households, except for 5-person households and
 2-person households.
 {{<table url="table3-6.csv"
 title="Urbanized Area Household Number by Size and Year"
-source="US Census Bureau. Decennial Census 2000 and 2010 (Table H13).
-Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
+source="US Census Bureau. Decennial Census 2000 and 2010 (Table H13).Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
 
 ### Urban-Rural Ratio
 The urbanized area grew from 123,938 people in 2000 to 145,361 people in 2010.
@@ -216,12 +210,10 @@ Bondville, and the southern portion of Savoy don’t have access to public
 transportation.
 {{<table url="table3-9.csv"
 title="Access to Vehicles in the Urbanized Area for Workers 16 YRS. & Over (2010)"
-source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S0801).
-Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
+source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S0801). Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
 {{<table url="table3-10.csv"
 title="Commuter Mode Share in Various Urbanized Areas (2010)"
-source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S08301).
-Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
+source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S08301). Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
 
 Table 3.11 shows the commuting mode for workers by municipality within the
 urbanized area. Champaign and Urbana have the highest percentages of workers who
