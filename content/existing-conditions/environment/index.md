@@ -78,6 +78,9 @@ visibility, comfort, animals, and property from the unfavorable effects of poor
 air quality. An additional primary standard for Sulfur Dioxide (SO2) of 75 parts
 per billion (ppb) for the 1-hour averaging time was added to the final EPA rule,
 as of June 2, 2010.
+{{<table url="table5-1.csv"
+title="Ambient Air Quality Stndards (2011)"
+source="http://epa.state.il.us/air/air-quality-report/2011/air-quality-report-2011.pdf">}}
 
 According to the Illinois EPA, the Champaign-Urbana Urbanized Area has
 maintained an overall “attainment status” for locally measured air pollutants,
@@ -90,6 +93,12 @@ row. As a result, air quality should be improved to below attainment status for
 the entire MPA in part by the reduction of overall Vehicle Miles Traveled (VMT).
 Also, it would be important to install additional, strategically placed
 monitoring stations to adequately track and monitor progress.
+{{<table url="table5-2.csv"
+title="Urbanized Area Particulate Matter Counts (2006-2012) - Ozone Number of Days Great Than:"
+source="http://www.epa.state.il.us/air/air-quality-report/index.html- 2010 Report Data provided by the Annual Air Quality Reports for Illinois, Bondville and Champaign Stations">}}
+{{<table url="table5-2-1.csv"
+title="Urbanized Area Particulate Matter Counts (2006-2012) - Particulate Matter, Fine (PM2.5)"
+source="http://www.epa.state.il.us/air/air-quality-report/index.html- 2010 Report Data provided by the Annual Air Quality Reports for Illinois, Bondville and Champaign Stations">}}
 
 ## Water Quality
 
@@ -125,8 +134,11 @@ Aquifer, an estimated 513,700 people live within the Mahomet Aquifer service
 area and 509,000 people (or 99%) are served by the aquifer. A 2009 report from
 the Illinois State Water Survey shows significant drawndown trends in the
 Mahomet Aquifer though no shortages are yet predicted1.
+{{<table url="table5-3.csv"
+title="Water Quality Change (2008-2012)"
+source="IEPA Integrated Water Quality Report, 2012">}}
 
-## Ecological Work
+## Ecological Framework
 It is important to consider where development of infrastructure for
 transportation and other land uses will take place because local species often
 rely on sensitive natural areas like grasslands, woodlands and wetlands. In June
@@ -147,3 +159,6 @@ maintenance efforts. Wetlands, in particular, greatly assist in retaining storm
 water during times of heavy precipitation and work to reduce the effects of
 regional flooding in addition to providing habitat for specific types of
 vegetation and animal species not found in other environments.
+{{<table url="table5-4.csv"
+title="Threatened & Endangered Species in Champamign County (2013)"
+source="Illinois Natural Heritage Database">}}
