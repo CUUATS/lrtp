@@ -48,6 +48,10 @@ these major infrastructure elements:
 * Commercial Airports 1
 * Private Airports 1
 
+{{<table url="table7-1.csv"
+title="Commuting Mode for Workers 16 Yrs and Older (2010)"
+source="Census, ACS 5-Yr, 2006-2010">}}
+
 ## Pedestrians and Persons with Disabilities
 People have a greater tendency to travel by walking when a route is safe,
 convenient, accessible, and a relatively short distance. When people choose to
@@ -63,6 +67,11 @@ metropolitan planning area (Figure 7.1). Since there is not a complete inventory
 of sidewalk infrastructure at this time, this plan only assesses and documents
 the sidewalk network in the urbanized area to better understand issues of
 mobility, accessibility, and connectivity.
+{{<table url="table7-2.csv"
+title="Accessible Pedestrian Signals in the Urbanized Area (2009,2012)"
+description="There are currently no accessible pedestrian signals in Savoy, Bondville, Mahomet, or Tolono."
+source="CUUATS APS Database">}}
+
 
 ### Pedestrian Safety
 {{<image src="intersection.jpg"
@@ -107,6 +116,10 @@ categories for crashes and injuries used in the charts are defined in Figure
 since 2009, though the number of fatalities has remained about the same. The
 number of crashes in each injury severity category has also increased since
 2009, except for the least severe injuries.
+
+{{<table url="table7-3.csv"
+title="Pedestrian Crashes in Champaign-Urbana (2007-2011)"
+source="Illinois Department of Transportation">}}
 
 ## Public Input - Pedestrians
 The comments that referenced the pedestrian system (including walking,
@@ -166,6 +179,13 @@ Savoy. Table 7.5 shows the accessibility for walkable/bikeable and bikeable
 households for the region. A quarter of a mile is considered walkable/bikeable
 and a half of a mile is considered bikeable.
 
+{{<table url="table7-4.csv"
+title="Miles of Bicycle Facilities in the Area"
+source="Champaign County Greenways and Trails Plan: Active Choices, 2014">}}
+{{<table url="table7-5.csv"
+title="Trail Infrastructure Accessibility by Place by Household"
+source="CUUATS">}}
+
 ### Bicycle Safety
 Bicyclists are vulnerable road users whose collisions with motor vehicles often
 result in serious injury or even death. In 2010, 618 bicyclists were killed and
@@ -181,6 +201,10 @@ injuries, the most severe, have increased since 2007, although B and C injuries
 have decreased. Figure 7.7 and Figure 7.8 highlight the propensity of university
 students to be involved in bicycle crashes: Figure 7.7 shows bicycle crashes by
 age and Figure 7.8 shows the frequency of bicycle crashed by intersection.
+
+{{<table url="table7-6.csv"
+title="Bicycle Crashes in Champaign-Urbana (2007-2011)"
+source="Illinois Department of Transportation">}}
 
 ## Public Input : Bicycles
 Like pedestrians, bikers are much more vulnerable than cars or buses in the
