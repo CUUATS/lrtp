@@ -286,12 +286,23 @@ residential land uses has increased almost 5 percent since 2009. The C-U MTD
 service area has an overall average coverage of just over 98 percent of all
 residential land uses in 2012.
 
+{{<table url="table7-7.csv"
+title="C-U MTD Coverage of Residences in the Servce Area by Type (2009 & 2012)"
+source="CUUATS">}}
+
 In 2013, 55 percent of C-U MTD’s fleet was hybrid diesel-electric, up from 9
 percent in 2009. These vehicles consume 25 percent less fuel than diesel-only
 vehicles and help reduce noise pollution1. The use of hybrid buses not only
 improves fuel efficiency, but helps with the reduction of greenhouse gases in
 the urbanized area. Table 7.8 shows the growth of C-U MTD’s hybrid bus fleet
 between 2009 and 2013.
+
+{{<table url="table7-8-1.csv"
+title="C-U MTD Bus Fleet by Bus Type (Standard Diesel)"
+source="C-U MTD">}}
+{{<table url="table7-8-2.csv"
+title="C-U MTD Bus Fleet by Bus Type (Diesel-Electric Hybrid)"
+source="C-U MTD">}}
 
 ### Human Services Transportation
 Human services transportation providers help meet the transportation needs of
