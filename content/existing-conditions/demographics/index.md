@@ -77,7 +77,8 @@ non-Hispanic populations, which are 6 and 94 percent, respectively. For the
 Hispanic population of the urbanized area, this is a 2.5 percent increase in the
 percentage of the total population since 2000.
 {{<table url="table3-1-1.csv"
-title="Urbanized Area and Champaign County Race and Ethnicity (2010)"
+title="Urbanized Area and Champaign County Race and Ethnicity (2010)">}}
+{{<table url="table3-1-2.csv"
 source="US Census Bureau, 2000 & 2010 Decennial Census, (Tables P8 & P9)">}}
 
 ## Education, Income, Poverty, and Disability
@@ -89,6 +90,9 @@ three-percent increase of persons with a bachelor’s d or higher since 2000. Th
 illustrates that the urbanized area generally has a highly educated population
 compared to the state and the nation overall due to the presence of the
 University of Illinois.
+{{<table url="table3-2.csv"
+title="Educational Attainment & Poverty Levels for Persons 25 Years and Older (2010)"
+source="US Census Bureau, ACS 5-Yr Data, 2006-2010 (Table S1701). Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
 
 ### Median Income
 Median income is a valuable indicator for the transportation options available
@@ -104,6 +108,9 @@ median income due to the large student population, with income generally rising
 from the 24-44 to the 45-64 age bracket. As householders retire, incomes begin
 to fall again, although not to the point of householders in the 15-24 age
 bracket.
+{{<table url="table3-3.csv"
+title="Median Household Income (2010)"
+source="US Census Bureau, ACS 5-Yr Data, (Table DP03)">}}
 
 ### Poverty Status by Age
 As part of the planning process, concentrations of targeted population groups
@@ -119,6 +126,17 @@ level. Similar to measuring income, poverty levels can be difficult to measure
 and compare due to the fact that students are sometimes inaccurately defined as
 ‘living below poverty level’ because of the difficulty in measuring their
 non-traditional forms of income and financial support.
+{{<table url="table3-4.csv"
+title="Urbanized Area Population With A Disability (2012)"
+source="US Census Bureau, Census 2008-12 ACS">}}
+{{<table url="table3-5.csv"
+title="Urbanized Area Poverty Status By Age"
+source="US Census Bureau. Decennial Census 2000 and ACS 5-Year Data 2006-2010 (Table B17001).
+Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.
+Due to rounding, totals may not equal 100.
+In a comparison study between Census 2000 income data and the 2000 ACS, income collected in Census 2000 was found
+to be about 4 percent higher than that in the 2000 ACS. For more information on the differences of income in the ACS
+and Census 2000, see Income in the American Community Survey: Comparison to Census 2000. (www.census.gov)">}}
 
 ### Households
 Household size is an indicator of population distribution and density within the
