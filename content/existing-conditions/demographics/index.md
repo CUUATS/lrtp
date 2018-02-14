@@ -181,6 +181,10 @@ Kraft Foods, Inc., Plastipak Packaging, Inc., and Christie Clinic have
 experienced a small growth in employees in the same time period. Parkland
 College and Provena Covenant Medical Center have each lost more than 200
 employees since 2009.
+{{<table url="table3-8.csv"
+title="Champaign County To Employers (2011)"
+source="Champaign County Economic Development Corporation, 2013. These data were not available for 2009.">}}
+
 
 One of the most frequent trips made within the Metropolitan Planning Area (MPA)
 is area residents’ journey to work, determined on a large scale by population
@@ -201,13 +205,23 @@ urbanized area, more than 4,000 people (or seven percent) of the working
 population do not have access to a personal vehicle. Champaign and Urbana have a
 higher rate of no-vehicle ownership than the rest of the urbanized area at 7.5
 and 8.4 percent, respectively, compared with an average of 7 percent for the
-entire urbanized area. Table 3.10 shows the commuter mode for workers in
+entire urbanized area.
+
+Table 3.10 shows the commuter mode for workers in
 urbanized areas across the Midwest. The Champaign-Urbana urbanized area has the
 highest percentage of drivers and carpoolers, but also has a high percentage of
 workers who take public transportation and walk, although the numbers in these
 categories have decreased for the urbanized area overall since Tolono,
 Bondville, and the southern portion of Savoy don’t have access to public
 transportation.
+{{<table url="table3-9.csv"
+title="Access to Vehicles in the Urbanized Area for Workers 16 YRS. & Over (2010)"
+source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S0801).
+Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
+{{<table url="table3-10.csv"
+title="Commuter Mode Share in Various Urbanized Areas (2010)"
+source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S08301).
+Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
 
 Table 3.11 shows the commuting mode for workers by municipality within the
 urbanized area. Champaign and Urbana have the highest percentages of workers who
@@ -227,3 +241,9 @@ Overall, the mean travel time in the urbanized area is less than 20 minutes.
 alt="a street with pedestrians, cars, and bikers"
 caption="Commuting on University of Illinois Campus"
 position="center">}}
+{{<table url="table3-11.csv"
+title="Commuting Mode for Workers 16 Yrs. & Over By Municipality"
+source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S0801).">}}
+{{<table url="table3-12.csv"
+title="Travel Time to Work for Workers 16 Yrs. & Over (2010)"
+source="US Census Bureau. ACS 5-Yr, 2006-2010 Data (Table S0801).">}}
