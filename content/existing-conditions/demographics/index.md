@@ -146,12 +146,19 @@ increasing prevalence of people living alone in the area (Table 3.6). The
 remainder of the household sizes generally grew in number but remained
 consistent in percent of total households, except for 5-person households and
 2-person households.
+{{<table url="table3-6.csv"
+title="Urbanized Area Household Number by Size and Year"
+source="US Census Bureau. Decennial Census 2000 and 2010 (Table H13).
+Urbanized Area data are an aggregation of Champaign, Urbana, Savoy, Tolono, and Bondville.">}}
 
 ### Urban-Rural Ratio
 The urbanized area grew from 123,938 people in 2000 to 145,361 people in 2010.
 The urbanized area also grew by more than eight square miles from 2000 to 2010
 with a continued trend of nearly three-percent shift from rural to urban land
 designation per decade in Champaign County from 1980 to 2010 (Table 3.7).
+{{<table url="table3-7.csv"
+title="Urban-Rural Ratio (1980-2010)"
+source="US Census Bureau. Decennial Census 1980-2010. SF1 (Table P2).">}}
 
 ## Employment
 Champaign County is a regional employment center because of the presence of
