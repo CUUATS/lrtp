@@ -501,14 +501,17 @@ over the five-year study period.
 description="East-West Corridor"
 title="Crashes on Major Corridors, Champaign-Urbana (2007-2011)"
 footer="1">}}
+
 {{<table url="table7-14-2.csv"
 description="North-South Corridor"
 notes="Table 7.14 shows that University Avenue and Prospect Avenue had the highest number of crashes with over 1,000 crashes in the five-year period. University Avenue also had the highest number of fatalities during the same period."
 footer="1">}}
 
+
 {{<table url="table7-15-1.csv"
 title="Severe Crashes on Major Corridors By Year"
 description="East-West Corridor">}}
+
 {{<table url="table7-15-2.csv"
 description="North-South Corridor"
 notes="Table 7.15 shows that University Avenue, Mattis Avenue, Bradley Avenue, and Springfield Avenue are the corridors with the highest number of severe crashes in the Champaign-Urbana area. Table 7.16 shows the number of fatal crashes along the same major corridors between 2007 and 2011.">}}
