@@ -452,6 +452,9 @@ high ADT volumes. The five busiest roadways in the MPA are Prospect Avenue,
 Mattis Avenue, Cunningham Avenue, Neil Street, and University Avenue. These
 roads act as gateways into the urbanized area and see heavy traffic from local
 use within the urbanized area.
+{{<table url="table7-13.csv"
+title="VMT and Total Crash Rate in Champaign-Urbana"
+source="Illinois Department of Transportation">}}
 
 ### VMT and Total Crash Rate in Champaign-Urbana
 The number of crashes in the urbanized area per the total vehicle miles traveled
@@ -494,6 +497,21 @@ are summarized in this section. Table 7.14 provides the total number of crashes,
 injuries, and fatalities along major corridors. Table 7.15 and Table 7.16 show
 the change in the number of severe crashes and fatal crashes on the corridors
 over the five-year study period.
+{{<table url="table7-14-1.csv"
+description="East-West Corridor"
+title="Crashes on Major Corridors, Champaign-Urbana (2007-2011)"
+footer="1">}}
+{{<table url="table7-14-2.csv"
+description="North-South Corridor"
+notes="Table 7.14 shows that University Avenue and Prospect Avenue had the highest number of crashes with over 1,000 crashes in the five-year period. University Avenue also had the highest number of fatalities during the same period."
+footer="1">}}
+
+{{<table url="table7-15-1.csv"
+title="Severe Crashes on Major Corridors By Year"
+description="East-West Corridor">}}
+{{<table url="table7-15-2.csv"
+description="North-South Corridor"
+notes="Table 7.15 shows that University Avenue, Mattis Avenue, Bradley Avenue, and Springfield Avenue are the corridors with the highest number of severe crashes in the Champaign-Urbana area. Table 7.16 shows the number of fatal crashes along the same major corridors between 2007 and 2011.">}}
 
 Table 7.14 shows that University Avenue and Prospect Avenue had the highest
 number of crashes with over 1,000 crashes in the five-year period. University
