@@ -321,6 +321,10 @@ In order to meet the needs of these populations, general public, human services,
 student, and private transportation services are available. Transportation
 providers are detailed in Table 7.9.
 
+{{<table url="table7-9.csv"
+title="Urbanized Area Human Services Transportation Providers"
+source="CUUATS">}}
+
 Despite the numerous human services transportation providers in the region, many
 opportunities exist to improve how the urbanized area transportation system
 functions. In terms of accessibility, there are issues concerning ease of use,
@@ -343,6 +347,17 @@ as a point of origin. Buses provide more opportunities for intercity travel
 compared to air and passenger rail (Table 7.10 and Table 7.11). Between 2009 and
 2012, bus service for 16 in-state and 9 out-of-state destinations was lost due
 to the closure of a bus transport company.
+
+{{<table url="table7-10-1.csv"
+title="Intercity Destinations Within Illinois (2012)">}}
+{{<table url="table7-10-2.csv">}}
+{{<table url="table7-10-3.csv"
+source="2012 Champaign-Urbana Urbanized Area Human Services Transportation Plan">}}
+{{<table url="table7-10-4.csv"
+title="Intercity Destinations Outside of Illinois (2012)">}}
+{{<table url="table7-10-5.csv">}}
+{{<table url="table7-10-6.csv"
+source="2012 Champaign-Urbana Urbanized Area Human Services Transportation Plan">}}
 
 ## Public Input: Transit
 {{<image src="crosswalkbus.jpg"
@@ -397,6 +412,10 @@ and other** vehicles, including TA trailers, fiscal trucks, recreational
 vehicles, and more. The total number of registered vehicles in the County has
 fallen by almost 10,000 between 2010 and 2012 with most of the decrease
 happening in the All Other category.
+
+{{<table url="table7-12.csv"
+title="Champaign County Annual Vehicle Registrations (2009-2012)"
+source="http://www.cyberdriveillinois.com/departments/vehicles/statistics/home.html">}}
 
 Figure 7.14 shows the functional classification of the roadways in the
 Metropolitan Planning Area (MPA) and urbanized area. IDOT classifies the
