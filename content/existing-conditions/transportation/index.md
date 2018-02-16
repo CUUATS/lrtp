@@ -550,6 +550,9 @@ Champaign-Urbana. As seen in Table 7.18, there were no signalized intersections
 in the Priority 1 or Priority 2 lists, though 13 intersections are listed as
 Priority level 3.
 
+{{<table url="table7-17.csv"
+title="Volume Based Classification">}}
+
 ### Pavement Conditions
 The Pavement Condition Index (PCI) assesses whether roads are in excellent,
 good, fair, poor, and very poor conditions. According to data received directly
