@@ -527,6 +527,16 @@ the same major corridors between 2007 and 2011.
 Figure 7.21 identifies the location of the fatal and severe crashes along the
 major corridors in Champaign-Urbana between 2007 and 2011.
 
+{{<table url="table7-16-1.csv"
+title="Fatal Crashes Along Major Corridors By Year"
+description="East-West Corridor"
+footer="1">}}
+
+{{<table url="table7-16-2.csv"
+title="Fatal Crashes Along Major Corridors By Year"
+description="North-South Corridor"
+footer="1">}}
+
 ### Selected Critical Intersection Locations
 {{<image src="road.jpg"
 alt="a large amount of vehicles use a congested roadway"
