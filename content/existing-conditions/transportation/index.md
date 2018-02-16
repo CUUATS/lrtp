@@ -507,7 +507,6 @@ description="North-South Corridor"
 notes="Table 7.14 shows that University Avenue and Prospect Avenue had the highest number of crashes with over 1,000 crashes in the five-year period. University Avenue also had the highest number of fatalities during the same period."
 footer="1">}}
 
-
 {{<table url="table7-15-1.csv"
 title="Severe Crashes on Major Corridors By Year"
 description="East-West Corridor">}}
