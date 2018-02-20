@@ -351,14 +351,11 @@ compared to air and passenger rail (Table 7.10 and Table 7.11). Between 2009 and
 to the closure of a bus transport company.
 
 {{<table url="table7-10-1.csv"
-title="Intercity Destinations Within Illinois (2012)">}}
-{{<table url="table7-10-2.csv">}}
-{{<table url="table7-10-3.csv"
+title="Intercity Destinations Within Illinois (2012)"
 source="2012 Champaign-Urbana Urbanized Area Human Services Transportation Plan">}}
+
 {{<table url="table7-10-4.csv"
-title="Intercity Destinations Outside of Illinois (2012)">}}
-{{<table url="table7-10-5.csv">}}
-{{<table url="table7-10-6.csv"
+title="Intercity Destinations Outside of Illinois (2012)"
 source="2012 Champaign-Urbana Urbanized Area Human Services Transportation Plan">}}
 
 ## Public Input: Transit
