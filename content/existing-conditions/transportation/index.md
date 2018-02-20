@@ -658,6 +658,11 @@ Generally, the heaviest truck traffic, including commercial trucks, occurs on
 highways and arterials with less truck traffic on routes in the core of the
 urbanized area or local roads (Figure 7.23 and Figure 7.24).
 
+{{<table url="table7-22.csv"
+title="Trucking Companies in the Metro Planning Area"
+footer="1"
+source="Quick Transportation Solutions Inc. <www.quicktransportsolutions.com> Accessed 9/13/13">}}
+
 ### Trains
 Three rail companies own tracks within the CUUATS MPA (Figure 7.27). Canadian
 National (CN) operates a north-south line that runs parallel to Neil Street/US
@@ -715,6 +720,13 @@ thousands of annual enplanements since 2000. Other regional airports in Peoria
 and Springfield have experienced a similar trend, though three out of the four
 regional airports listed experienced a small increase in flights between 2011
 and 2012.
+
+{{<table url="table7-23.csv"
+title="Willard Airport Departures and Arrivals (2012)"
+source="Willard Airport Homepage, http://www.flycmi.com/">}}
+{{<table url="table7-24.csv"
+title="Regional Airport Enplanements (2012)"
+source="Willard Airport Homepage, http://www.flycmi.com/">}}
 
 Table 7.25 and Figure 7.28 show the annual number of flights compared with the
 number of enplanements for Willard Airport from 2006-2012. While the number of
