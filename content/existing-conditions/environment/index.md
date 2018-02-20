@@ -162,4 +162,4 @@ vegetation and animal species not found in other environments.
 {{<table url="table5-4.csv"
 title="Threatened & Endangered Species in Champamign County (2013)"
 source="Illinois Natural Heritage Database"
-notes="Total Number of Species = 22 (13 Endangered, 9 Threatened)">}}
+description="Total Number of Species = 22 (13 Endangered, 9 Threatened)">}}
