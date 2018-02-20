@@ -745,6 +745,13 @@ plays a role as well.
 alt="a fountain is in front of an airport entrance"
 caption="Willard Airport, Village of Savoy"
 position="center">}}
+{{<table url="table7-25.csv"
+title="Willard Airport Flights and Enplanements (2006-2012)"
+source="Willard Airport Homepage, http://www.flycmi.com/">}}
+
+{{<table url="table7-26.csv"
+title="Willard Airport Delay by Type (2012)"
+source="Willard Airport Homepage, http://www.flycmi.com/">}}
 
 ## Public Input: Trains and Airplanes
 {{<image src="station.jpg"
