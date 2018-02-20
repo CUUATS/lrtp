@@ -69,8 +69,9 @@ the sidewalk network in the urbanized area to better understand issues of
 mobility, accessibility, and connectivity.
 {{<table url="table7-2.csv"
 title="Accessible Pedestrian Signals in the Urbanized Area (2009,2012)"
-description="There are currently no accessible pedestrian signals in Savoy, Bondville, Mahomet, or Tolono."
-source="CUUATS APS Database">}}
+notes="There are currently no accessible pedestrian signals in Savoy, Bondville, Mahomet, or Tolono."
+source="CUUATS APS Database"
+footer="1">}}
 
 
 ### Pedestrian Safety
