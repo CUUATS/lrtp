@@ -182,7 +182,8 @@ and a half of a mile is considered bikeable.
 
 {{<table url="table7-4.csv"
 title="Miles of Bicycle Facilities in the Area"
-source="Champaign County Greenways and Trails Plan: Active Choices, 2014">}}
+source="Champaign County Greenways and Trails Plan: Active Choices, 2014"
+footer="1">}}
 {{<table url="table7-5.csv"
 title="Trail Infrastructure Accessibility by Place by Household"
 source="CUUATS">}}
