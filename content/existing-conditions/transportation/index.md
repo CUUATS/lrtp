@@ -305,6 +305,9 @@ source="C-U MTD">}}
 {{<table url="table7-8-2.csv"
 title="C-U MTD Bus Fleet by Bus Type (Diesel-Electric Hybrid)"
 source="C-U MTD">}}
+{{<table url="table7-8-3.csv"
+title="C-U MTD Bus Fleet by Bus Type (Total Buses)"
+source="C-U MTD">}}
 
 ### Human Services Transportation
 Human services transportation providers help meet the transportation needs of
