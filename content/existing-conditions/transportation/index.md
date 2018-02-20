@@ -555,12 +555,35 @@ Priority level 3.
 {{<table url="table7-17.csv"
 title="Volume Based Classification">}}
 
+{{<table url="table7-18-1.csv"
+title="Critical Signalized Intersections"
+description="Priority 1">}}
+{{<table url="table7-18-2.csv"
+description="Priority 2">}}
+{{<table url="table7-18-3.csv"
+description="Priority 3"
+notes="The Illinois Department of Transportation equivalent property-damage only (EPDO) index is used to weight each crash based on crash severity and the equivalent property-damage-only crash cost.">}}
+
+{{<table url="table7-19-1.csv"
+title="Critical Unsignalized Intersections"
+description="Priority 1">}}
+{{<table url="table7-19-2.csv"
+description="Priority 2">}}
+{{<table url="table7-19-3.csv"
+description="Priority 3"
+notes="The Illinois Department of Transportation equivalent property-damage only (EPDO) index is used to weight each crash based on crash severity and the equivalent property-damage-only crash cost.">}}
+
 ### Pavement Conditions
 The Pavement Condition Index (PCI) assesses whether roads are in excellent,
 good, fair, poor, and very poor conditions. According to data received directly
 from each public works jurisdiction listed in the tables below, across the
 region, pavement conditions have remained relatively stable from 2009 to 2012
 (Table 7.19 and Table 7.20).
+
+{{<table url="table7-20.csv"
+title="Pavement Condition in Selected Areas (2011-2012)">}}
+{{<table url="table7-21.csv"
+title="Average Pavement Condition in Urbanized Area (2009-2012)">}}
 
 ### Alternative Fuel Infrastructure
 {{<image src="cracks.jpg"
