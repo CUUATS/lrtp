@@ -1,8 +1,7 @@
-Travel Time,Champaign,Urbana,Savoy,Tolono,Bondville,
-Less than 15 Minutes,1,54.60%,47.20%,25.30%,23.40%,
-15 to 29 Minutes,0,36.00%,44.40%,53.80%,49.50%,
-30 to 44 Minutes,0,5.80%,6.80%,13.60%,23.80%,
-45 to 59 Minutes,0,1.20%,0.60%,3.60%,2.00%,
-More than 60 Minutes,2.00%,2.40%,1.10%,3.60%,1.20%,
-Mean Travel Time (minutes),1540.00%,1480.00%,1540.00%,2000.00%,2160.00%,
-,,,,,,
+Travel Time,Champaign,Urbana,Savoy,Tolono,Bondville
+Less than 15 Minutes,1,54.60%,47.20%,25.30%,23.40%
+15 to 29 Minutes,0,36.00%,44.40%,53.80%,49.50%
+30 to 44 Minutes,0,5.80%,6.80%,13.60%,23.80%
+45 to 59 Minutes,0,1.20%,0.60%,3.60%,2.00%
+More than 60 Minutes,2.00%,2.40%,1.10%,3.60%,1.20%
+Mean Travel Time (minutes),1540.00%,1480.00%,1540.00%,2000.00%,2160.00%
