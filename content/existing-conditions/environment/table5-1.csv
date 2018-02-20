@@ -1,14 +1,13 @@
 Pollutant,Averaging time,Standard Primary,Standard Secondary
-Particulate Matter 10 micrometers (PM10),24-hour,150 �g/m?,Same as Primary
-Particulate Matter 2.5 ,,,
-micrometers (PM2.5),Yearly Average,15.0 �g/m?,Same as Primary
-,24-hour,35 �g/m?,Same as Primary
+Particulate Matter 10 micrometers (PM10),24-hour,150 μg/m?,Same as Primary
+Particulate Matter 2.5 micrometers (PM2.5),Yearly Average,15.0 μg/m?,Same as Primary
+Particulate Matter 2.5 micrometers (PM2.5),24-hour,35 μg/m?,Same as Primary
 Sulfur Dioxide (SO2),1-hour,75 ppb,None
-,3-hour,None,0.5 ppm
+Sulfur Dioxide (SO2),3-hour,None,0.5 ppm
 Carbon Monoxide (CO),1-hour,35 ppm,None
-,8-hour,9 ppm,None
+Carbon Monoxide (CO),8-hour,9 ppm,None
 Nitrogen Dioxide (NO2),Yearly Average,53 ppb,Same as Primary
-,1-hour,100 ppb,None
+Nitrogen Dioxide (NO2),1-hour,100 ppb,None
 Ozone (O3),1-hour,0.12 ppm,Same as Primary
-,8-hour,0.075 ppm,Same as Primary
-Lead (Pb),Rolling 3-Month Mean,0.15 �g/m?,Same as Primary
+Ozone (O3),8-hour,0.075 ppm,Same as Primary
+Lead (Pb),Rolling 3-Month Mean,0.15 μg/m?,Same as Primary
