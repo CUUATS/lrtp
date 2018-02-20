@@ -414,6 +414,7 @@ happening in the All Other category.
 
 {{<table url="table7-12.csv"
 title="Champaign County Annual Vehicle Registrations (2009-2012)"
+notes="B truck: weight = 8,000 pounds or less All Other: TA Trailer, weight =3,000 lbs or lesss; Fiscal truck, weight = more than 8,000 lbs, and “other” category from Illinois Vehicle Registration records."
 source="http://www.cyberdriveillinois.com/departments/vehicles/statistics/home.html">}}
 
 Figure 7.14 shows the functional classification of the roadways in the
