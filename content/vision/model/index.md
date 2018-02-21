@@ -134,6 +134,34 @@ based on Volume (V) to Capacity (C) ratio values of different roadway segments
 during the peak hours. Table 11.4 shows congestion levels defined by the V/C
 ratio. For Travel Demand Model documention, see Appendix F.
 
+{{<table url="table11-1.csv"
+title="Daily Home-Based Work Trips By Mode, Urbanized Area"
+Source="TDM, 2014">}}
+{{<table url="table11-2.csv"
+title="Daily Vehicle Miles Traveled (VMT)"
+Source="TDM, 2014">}}
+{{<table url="table11-3.csv"
+title="TDM Congestion Levels"
+Source="TDM, 2014">}}
+
+{{<table url="table11-4-highly.csv"
+description="Severely Roadway Segments"
+title="TDM Congestion, Baseline 2010">}}
+{{<table url="table11-4-severely.csv"
+description="Highly Congested Roadway Segments"">}}
+
+{{<table url="table11-5-highly.csv"
+description="Severely Roadway Segments"
+title="TDM Congestion, Baseline 2010">}}
+{{<table url="table11-5-severely.csv"
+description="Highly Congested Roadway Segments">}}
+
+{{<table url="table11-6-highly.csv"
+description="Severely Roadway Segments"
+title="TDM Congestion, Baseline 2010">}}
+{{<table url="table11-6-severely.csv"
+description="Highly Congested Roadway Segments">}}
+
 ### Land Use (LEAM)
 The Land Use Evolution and Impact Assessment Model (LEAM) is a suite of
 interconnected attractor models that predict land use change developed at the
@@ -188,6 +216,11 @@ scenario with a slightly higher emissions rate than the Traditional Development
 actually at a smaller rate on a per-capita basis. The results presented in
 Figure 11.7 show emissions per resident and per employee are both smaller in the
 Sustainable Choices 2040 scenario.
+
+{{<table url="table11-7.csv"
+title="Annual Mobile Vehicle Emissions"
+source="MOVES, 2014">}}
+
 
 ### Social Costs (SCALDS)
 The Social Cost of Alternative Land Development Scenarios (SCALDS) model was
