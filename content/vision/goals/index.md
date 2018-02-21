@@ -196,6 +196,9 @@ efficient and reliable movement of people, goods, services in the short term,
 and in the long term, achieve the state's goal of zero deaths and disabling
 injuries.
 
+{{<table url="table9-1-combined.csv"
+title="Safety and Security">}}
+
 ## Resilient Economy
 ### May 21 National Goal
 * Support the economic vitality of the metropolitan area, especially by enabling
@@ -212,6 +215,9 @@ invest in forward-looking infrastructure like fiber connectivity, establishing
 strong inter-regional transportation options like bullet trains, and promoting
 inter-municipal coordination that creates and maintains a high standard of
 living and quality of life for all.
+
+{{<table url="table9-2.csv"
+title="Resilient Economy">}}
 
 ## Multimodal Connectivity
 ### Map 21 National Goal
@@ -234,6 +240,9 @@ people, businesses, and institutions that will increase the efficiency of the
 transportation system by allowing freedom of choice in all modes of
 transportation including active modes whenever possible.
 
+{{<table url="table9-3.csv"
+title="Multimodal Connectivity">}}
+
 ## Accessibility and Affordability
 ### Map 21 National Goal
 * Increase accessibility and mobility of people and freight
@@ -245,6 +254,9 @@ person with disabilities.
 ### Sustainable Choices 2040 Goal
 * The Champaign-Urbana area will address issues of equity as well as segregation
  in its diverse communities in the area of transportation.
+
+ {{<table url="table9-4.csv"
+ title="Accessibility and Affordability">}}
 
 ## Healthy neighborhoods
 ### Map 21 National Goal
@@ -261,6 +273,9 @@ State and local planned growth and economic development patterns.
 residential quality of life by strengthening existing neighborhoods and housing
 developments, evaluating and expanding active transportation infrastructure, and
 promoting energy conservation and environmental quality.
+
+{{<table url="table9-5.csv"
+title="Healthy Neighborhoods">}}
 
 ## Balanced Development
 
@@ -288,3 +303,6 @@ types of development without encouraging sprawl or sacrificing important
 historical structures or new business opportunities by reinvigorating downtown
 areas, fostering more mixed use development, and protecting and preserving
 neighborhoods and business districts that contain historic structures.
+
+{{<table url="table9-6.csv"
+title="Balanced Development">}}
