@@ -621,7 +621,36 @@ people, businesses, and institutions that will increase the efficiency of the
 transportation system by allowing freedom of choice in all modes of
 transportation including active modes whenever possible.
 
+{{<accordion border="true" border="true">}}
+  {{<accordion-content title="Reduce the number of fatalities in Champaign-Urbana by 20% by 2020">}}
+### Performance Measure
 
+### Data Sources
+
+### Strategies
+
+### Responsible Parties
+
+  {{</accordion-content>}}
+  {{<accordion-content title="">}}
+### Performance Measure
+### Data Sources
+### Strategies
+### Responsible Parties
+  {{</accordion-content>}}  
+  {{<accordion-content title="">}}
+### Performance Measure
+### Data Sources
+### Strategies
+### Responsible Parties
+  {{</accordion-content>}}  
+  {{<accordion-content title="">}}
+### Performance Measure
+### Data Sources
+### Strategies
+### Responsible Parties}
+  {{</accordion-content>}}    
+{{</accordion>}}
 
 ## Accessibility and Affordability
 ### Map 21 National Goal
