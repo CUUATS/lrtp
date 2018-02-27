@@ -197,224 +197,260 @@ and in the long term, achieve the state's goal of zero deaths and disabling
 injuries.
 
 {{<accordion border="true" border="true">}}
-  {{<accordion-content title="Reduce the number of fatalities in Champaign-Urbana by 20% by 2020">}}
-    ### Performance Measure
-    Total Fatalities (5 year rolling average)
-    ### Data Sources
-    * IDOT Crash Data
-    * SCIL Report
-    ### Strategies
-    * CUUATS will produce a traffic crash analysis report for the Urbanized Area every two years.
-    * Evaluate intersections that have problematic or crash- inducing patterns and identify solutions.
-    * Improve visibility for all roadway users through improved lighting, striping, signage, visibility triangles, and access control.
-    * Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
-    * Continue educational programs for CUUATS member agencies as well as law enforcement officers about safety issues in the urbanized area.
-    * Continue educational programs for grades K-12 including driver’s education and safety programs.
-    * Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
-    ### Responsible Parties
-    * CUUATS Staff
-    * Cities and Villages
-    * Law enforcement
-    * C-U MTD
-    * CU- SRTS Project
-    * University of Illinois
-  {{</accordion-content>}}
+  {{<accordion-content title="Reduce the number of fatalities in Champaign-Urbana by 20% by 2020">}}  
+### Performance Measure
+Total Fatalities (5 year rolling average)
 
-  {{<accordion-content title="Reduce the number of fatalities per 100 MVMT in Champaign-Urbana by 20% by 2020">}}
-    ### Performance Measure
-    Total Fatalities per 100M VMT (5 year rolling average)
-    ### Data Sources
-    * IDOT Crash Data
-    * SCIL Report
-    ### Strategies
-    * Perform Road Safety Audit (RSA) at request of local agencies, maintain list of trained volunteers to help conduct RSAs.
-    * Prepare applications and provide input to local agencies regarding Highway Safety Improvement Program (HSIP) funds.
-    * Complete applications for available Federal safety funding.
-    * Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
-    * Conduct post-construction crash analysis required for federally-funded safety improvements.
-    * Evaluate HSIP projects (before and after studies).
-    * Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
-    ### Responsible Parties
-    * CUUATS Staff
-    * Cities and Villages
-    * Law Enforcement
-    * C-U MTD
-    * CU-SRTS Project
-    * University of Illinois
+### Data Sources
+* IDOT Crash Data
+* SCIL Report
+
+### Strategies
+* CUUATS will produce a traffic crash analysis report for the Urbanized Area every two years.
+* Evaluate intersections that have problematic or crash- inducing patterns and identify solutions.
+* Improve visibility for all roadway users through improved lighting, striping, signage, visibility triangles, and access control.
+* Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
+* Continue educational programs for CUUATS member agencies as well as law enforcement officers about safety issues in the urbanized area.
+* Continue educational programs for grades K-12 including driver’s education and safety programs.
+* Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
+
+### Responsible Parties
+* CUUATS Staff
+* Cities and Villages
+* Law enforcement
+* C-U MTD
+* CU- SRTS Project
+* University of Illinois
+{{</accordion-content>}}
+
+{{<accordion-content title="Reduce the number of fatalities per 100 MVMT in Champaign-Urbana by 20% by 2020">}}
+### Performance Measure
+Total Fatalities per 100M VMT (5 year rolling average)
+
+### Data Sources
+* IDOT Crash Data
+* SCIL Report
+
+### Strategies
+* Perform Road Safety Audit (RSA) at request of local agencies, maintain list of trained volunteers to help conduct RSAs.
+* Prepare applications and provide input to local agencies regarding Highway Safety Improvement Program (HSIP) funds.
+* Complete applications for available Federal safety funding.
+* Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
+* Conduct post-construction crash analysis required for federally-funded safety improvements.
+* Evaluate HSIP projects (before and after studies).
+* Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
+
+### Responsible Parties
+* CUUATS Staff
+* Cities and Villages
+* Law Enforcement
+* C-U MTD
+* CU-SRTS Project
+* University of Illinois
   {{</accordion-content>}}
 
   {{<accordion-content title="Reduce the number of severe injuries in Champaign-Urbana by 15% by 2020">}}
-  ### Performance Measure
-  Total Severe Injuries (5 year rolling average)
-  ### Data Sources
-  * IDOT Crash Data
-  * SCIL Report
-  ### Strategies    
-  * CUUATS will produce a traffic crash analysis report for the Urbanized Area every two years.
-  * Evaluate intersections that have problematic or crash- inducing patterns and identify solutions.
-  * Improve visibility for all roadway users through improved lighting, striping, signage, visibility triangles, and access control.
-  * Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
-  * Continue educational programs for CUUATS member agencies as well as law enforcement officers about safety issues in the urbanized area.
-  * Continue educational programs for grades K-12 including driver’s education and safety programs.
-  * Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
-  ### Responsible Parties
-  * CUUATS Staff
-  * Cities and Villages
-  * Law Enforcement
-  * C-U MTD
-  * CU-SRTS Project
-  * University of Illinois
+
+### Performance Measure
+Total Severe Injuries (5 year rolling average)
+
+### Data Sources
+* IDOT Crash Data
+* SCIL Report
+
+### Strategies    
+* CUUATS will produce a traffic crash analysis report for the Urbanized Area every two years.
+* Evaluate intersections that have problematic or crash- inducing patterns and identify solutions.
+* Improve visibility for all roadway users through improved lighting, striping, signage, visibility triangles, and access control.
+* Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
+* Continue educational programs for CUUATS member agencies as well as law enforcement officers about safety issues in the urbanized area.
+* Continue educational programs for grades K-12 including driver’s education and safety programs.
+* Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
+
+### Responsible Parties
+* CUUATS Staff
+* Cities and Villages
+* Law Enforcement
+* C-U MTD
+* CU-SRTS Project
+* University of Illinois
   {{</accordion-content>}}
 
   {{<accordion-content title="Reduce the number of severe injuries per 100 MVMT in Champaign-Urbana by 15% by 2020">}}
-  ### Performance Measure
-  Total Severe Injuries per 100M VMT (5 year rolling average)
-  ### Data Sources
-  * IDOT Crash Data
-  * SCIL Report
-  ### Strategies    
-  * Perform RSAs at the request of local agencies and maintain a list of trained volunteers to help conduct RSAs.
-  * Prepare applications and provide input to local agencies regarding Highway Safety Improvement Program (HSIP) funds.
-  * Complete applications for available Federal safety funding.
-  * Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
-  * Conduct post-construction crash analysis required for federally-funded safety improvements.
-  * Evaluate HSIP projects (before and after studies).
-  * Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
-  ### Responsible Parties
-  * CUUATS Staff
-  * Cities and Villages
-  * Law Enforcement
-  * C-U MTD
-  * CU-SRTS Project
-  * University of Illinois
+
+### Performance Measure
+Total Severe Injuries per 100M VMT (5 year rolling average)
+
+### Data Sources
+* IDOT Crash Data
+* SCIL Report
+
+### Strategies    
+* Perform RSAs at the request of local agencies and maintain a list of trained volunteers to help conduct RSAs.
+* Prepare applications and provide input to local agencies regarding Highway Safety Improvement Program (HSIP) funds.
+* Complete applications for available Federal safety funding.
+* Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
+* Conduct post-construction crash analysis required for federally-funded safety improvements.
+* Evaluate HSIP projects (before and after studies).
+* Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
+
+### Responsible Parties
+* CUUATS Staff
+* Cities and Villages
+* Law Enforcement
+* C-U MTD
+* CU-SRTS Project
+* University of Illinois
   {{</accordion-content>}}
 
 
   {{<accordion-content title="Reduce the total number of crashes involving bicyclists in Champaign-Urbana by 15% by 2020">}}
-  ### Performance Measure
-  Total bicycle crashes
-  ### Data Sources
-  * IDOT Crash Data
-  * SCIL Report
-  ### Strategies    
-  * Close gaps in bicycle networks along roadways and in existing neighborhoods.
-  * Continue to implement scheduled improvements to bicycle infrastructure proposed in the Urbana Bicycle Master Plan and Champaign County Greenways and Trails within the MPA.
-  * Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
-  * Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
-  * Revise, complete and distribute Safe Walking Route Maps for public elementary and middle schools in Champaign-Urbana every two years and continue the Safe Routes to School program.
-  ### Responsible Parties
-  * CUUATS Staff
-  * Cities and Villages
-  * Developers
-  * CU-SRTS Project
-  * University of Illinois
+
+### Performance Measure
+Total bicycle crashes
+
+### Data Sources
+* IDOT Crash Data
+* SCIL Report
+
+### Strategies    
+* Close gaps in bicycle networks along roadways and in existing neighborhoods.
+* Continue to implement scheduled improvements to bicycle infrastructure proposed in the Urbana Bicycle Master Plan and Champaign County Greenways and Trails within the MPA.
+* Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
+* Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
+* Revise, complete and distribute Safe Walking Route Maps for public elementary and middle schools in Champaign-Urbana every two years and continue the Safe Routes to School program.
+
+### Responsible Parties
+* CUUATS Staff
+* Cities and Villages
+* Developers
+* CU-SRTS Project
+* University of Illinois
   {{</accordion-content>}}
 
   {{<accordion-content title="Reduce the total number of crashes involving pedestrians in Champaign-Urbana by 15% by 2020">}}
-  ### Performance Measure
-  Total pedestrian crashes
-  ### Data Sources
-  * IDOT Crash Data
-  * SCIL Report
-  ### Strategies    
-  * Continue to enforce codes requiring new development to provide sidewalks along roadway frontages and safe crossings at intersections.
-  * Retrofit existing ramps and crosswalk entrances to meet ADA standards.
-  * Install Accessible Pedestrian Signal (APS) systems at intersections with high traffic volumes and/or high pedestrian crossing volumes.
-  * Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
-  * Revise, complete, and distribute Safe Walking Route Maps for public elementary and middle schools in Champaign-Urbana every two years and continue Safe Routes to School project.
-  * Revise, complete, and distribute Safe Walking Route Maps for public elementary and middle schools in Champaign-Urbana every two years and continue Safe Routes to School project.
-  * Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
-  ### Responsible Parties
-  * CUUATS Staff
-  * Cities and Villages
-  * CU-SRTS Project
-  * University of Illinois
+
+### Performance Measure
+Total pedestrian crashes
+
+### Data Sources
+* IDOT Crash Data
+* SCIL Report
+
+### Strategies    
+* Continue to enforce codes requiring new development to provide sidewalks along roadway frontages and safe crossings at intersections.
+* Retrofit existing ramps and crosswalk entrances to meet ADA standards.
+* Install Accessible Pedestrian Signal (APS) systems at intersections with high traffic volumes and/or high pedestrian crossing volumes.
+* Work with municipalities and transportation study groups to evaluate existing speed limits on the local roadway network.
+* Revise, complete, and distribute Safe Walking Route Maps for public elementary and middle schools in Champaign-Urbana every two years and continue Safe Routes to School project.
+* Revise, complete, and distribute Safe Walking Route Maps for public elementary and middle schools in Champaign-Urbana every two years and continue Safe Routes to School project.
+* Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
+
+### Responsible Parties
+* CUUATS Staff
+* Cities and Villages
+* CU-SRTS Project
+* University of Illinois
   {{</accordion-content>}}
 
   {{<accordion-content title="Reduce the number of hazardous materials and potential exposure incidents in the urbanized area by 5% by 2020 by tracking and understanding regional commodity flows">}}
-  ### Performance Measure
-  Frequency of incidents related to hazmat spills on the regional transportation system
-  ### Data Sources
-  * CUUATS staff
-  * Cities and Villages
-  * LEPC
-  * Law Enforcement
-  * C-U MTD
-  * University of Illinois
-  ### Strategies    
-  Identify hazardous materials most frequently transported through Champaign County.
-  Identify the routes most frequently used, and the modes of transportation that hazardous commodities are shipped.
-  Identify major highways, railroads, and pipelines and survey the amounts of hazardous commodities transported.
-  Assess the regional transportation network for safe routing of hazardous materials and designate the most appropriate routes for hazmat transportation.
-  Identify existing routes which are designated as hazmat routes.
-  Recommend appropriate routes for hazmat transportation through Champaign County.
-  ### Responsible Parties
-  * CUUATS staff
-  * Cities and Villages
-  * Champaign County Emergency Management Agency (EMA)
-  * Developers
-  * LEPC
-  * law enforcement
-  * C-U MTD
-  * University of Illinios
+
+### Performance Measure
+Frequency of incidents related to hazmat spills on the regional transportation system
+
+### Data Sources
+* CUUATS staff
+* Cities and Villages
+* LEPC
+* Law Enforcement
+* C-U MTD
+* University of Illinois
+
+### Strategies    
+Identify hazardous materials most frequently transported through Champaign County.
+Identify the routes most frequently used, and the modes of transportation that hazardous commodities are shipped.
+Identify major highways, railroads, and pipelines and survey the amounts of hazardous commodities transported.
+Assess the regional transportation network for safe routing of hazardous materials and designate the most appropriate routes for hazmat transportation.
+Identify existing routes which are designated as hazmat routes.
+Recommend appropriate routes for hazmat transportation through Champaign County.
+### Responsible Parties
+* CUUATS staff
+* Cities and Villages
+* Champaign County Emergency Management Agency (EMA)
+* Developers
+* LEPC
+* law enforcement
+* C-U MTD
+* University of Illinois
 
   {{</accordion-content>}}
 
   {{<accordion-content title="Create an evacuation plan for the region by 2020 that would set the regional transportation system to be ready for efficiently performing evacuation in case of a natural or man-made disaster">}}
-  ### Performance Measure
-  Existence of regional evacuation plan
-  ### Data Sources
-  * CUUATS staff
-  * Cities and Villages
-  * LEPC
-  * School Districts
-  * law Enforcement
-  * C-U MTD
-  ### Strategies    
-  * Coordinate with agencies in charge of emergency vehicle access and evacuation plans.
-  * Update the regional Intelligent Transportation System (ITS) architecture and install Vehicle Management Systems (VMS) at major roadways and intersections.
-  * Perform periodic emergency evacuation drills at different agencies including local school districts.
-  ### Responsible Parties
-  * CUUATS staff
-  * Cities and Villages
-  * Champaign County EMA
-  * LEPC
-  * School Districts
-  * Law Enforcement
-  * C-U MTD
+
+### Performance Measure
+Existence of regional evacuation plan
+
+### Data Sources
+* CUUATS staff
+* Cities and Villages
+* LEPC
+* School Districts
+* law Enforcement
+* C-U MTD
+
+### Strategies    
+* Coordinate with agencies in charge of emergency vehicle access and evacuation plans.
+* Update the regional Intelligent Transportation System (ITS) architecture and install Vehicle Management Systems (VMS) at major roadways and intersections.
+* Perform periodic emergency evacuation drills at different agencies including local school districts.
+
+### Responsible Parties
+* CUUATS staff
+* Cities and Villages
+* Champaign County EMA
+* LEPC
+* School Districts
+* Law Enforcement
+* C-U MTD
   {{</accordion-content>}}
 
   {{<accordion-content title="Equip important regional transportation infrastructure with proper security features against any possible man made hazard by 2020">}}
-  ### Performance Measure
-  Number of new security features installed at Illinois Terminal, Willard Airport, etc.
-  ### Data Sources
-  * C-U MTD
-  * UIUC
-  ### Strategies  
-  * Conduct monthly inspections of security features at the Illinois Terminal, Willard Airport, etc.
-  * Coordinate with IDOT, Department of Homeland Security (DHS), and local agencies to ensure that up to date security features are installed at regional transportation infrastructure.
-  ### Responsible Parties
-  * CUUATS staff
-  * DHS
-  * IDOT
-  * Law Enforcement
-  * Cities and Villages
-  * C-U MTD
-  * University of Illinois
+
+### Performance Measure
+Number of new security features installed at Illinois Terminal, Willard Airport, etc.
+
+### Data Sources
+* C-U MTD
+* UIUC
+
+### Strategies  
+* Conduct monthly inspections of security features at the Illinois Terminal, Willard Airport, etc.
+* Coordinate with IDOT, Department of Homeland Security (DHS), and local agencies to ensure that up to date security features are installed at regional transportation infrastructure.
+
+### Responsible Parties
+* CUUATS staff
+* DHS
+* IDOT
+* Law Enforcement
+* Cities and Villages
+* C-U MTD
+* University of Illinois
   {{</accordion-content>}}
 
   {{<accordion-content title="Partner with at least 2 law enforcement agencies to promote safety and security of existing and proposed transportation system by 2020">}}
-  ### Performance Measure
-  Police reports related to personal safety and vandalism in transportation system
-  ### Data Sources
-  Crime data
-  ### Strategies    
-  * Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
-  * Include updated information regarding the regional Intelligent Transportation System (ITS) architecture and install Vehicle Management Systems (VMS) in safety education programs.
-  ### Responsible Parties
-  All local police departments and municipalities
+
+### Performance Measure
+Police reports related to personal safety and vandalism in transportation system
+
+### Data Sources
+Crime data
+
+### Strategies    
+* Continue educational safety programs for the community including drivers, bicyclists and pedestrians.
+* Include updated information regarding the regional Intelligent Transportation System (ITS) architecture and install Vehicle Management Systems (VMS) in safety education programs.
+
+### Responsible Parties
+All local police departments and municipalities
   {{</accordion-content>}}
-  
 {{</accordion>}}
 
 
@@ -435,8 +471,7 @@ strong inter-regional transportation options like bullet trains, and promoting
 inter-municipal coordination that creates and maintains a high standard of
 living and quality of life for all.
 
-{{<table url="table9-2.csv"
-title="Resilient Economy">}}
+
 
 ## Multimodal Connectivity
 ### Map 21 National Goal
@@ -459,8 +494,7 @@ people, businesses, and institutions that will increase the efficiency of the
 transportation system by allowing freedom of choice in all modes of
 transportation including active modes whenever possible.
 
-{{<table url="table9-3.csv"
-title="Multimodal Connectivity">}}
+
 
 ## Accessibility and Affordability
 ### Map 21 National Goal
@@ -495,8 +529,7 @@ residential quality of life by strengthening existing neighborhoods and housing
 developments, evaluating and expanding active transportation infrastructure, and
 promoting energy conservation and environmental quality.
 
-{{<table url="table9-5.csv"
-title="Healthy Neighborhoods">}}
+
 
 ## Balanced Development
 
@@ -524,6 +557,3 @@ types of development without encouraging sprawl or sacrificing important
 historical structures or new business opportunities by reinvigorating downtown
 areas, fostering more mixed use development, and protecting and preserving
 neighborhoods and business districts that contain historic structures.
-
-{{<table url="table9-6.csv"
-title="Balanced Development">}}
