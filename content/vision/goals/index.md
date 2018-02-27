@@ -471,7 +471,134 @@ strong inter-regional transportation options like bullet trains, and promoting
 inter-municipal coordination that creates and maintains a high standard of
 living and quality of life for all.
 
+{{<accordion border="true" border="true">}}
+  {{<accordion-content title="Increase job growth by 5% by 2020 through investments in transportation infrastructure improvements, technology improvements, education, and regional connectivity.">}}
+### Performance Measure
+* Number of jobs supported by transportation investments
+* Number of Urbanized Area’s funded and completed projects
 
+### Data Sources
+Economic Model TIP Database
+
+### Strategies
+* Develop, implement, and regularly update a Regional Economic Strategy.
+* Conduct an inventory and analysis that examines local government economic development programs and practices (short term).
+* Maintain a regionwide clearinghouse of data.
+* Support transportation projects that increase the likelihood of people having access to training locations (i.e. Parkland, WEA).
+* Provide examples for addressing mobility and accessibility for low-income and special needs populations (incl. youth, seniors, and disabled persons) in local transportation planning efforts.
+* Improve key facilities connecting the region to national and world markets.
+
+
+### Responsible Parties
+* CCRPC Staff
+* Champaign County EDC
+* Cities and Villages.
+  {{</accordion-content>}}
+
+  {{<accordion-content title="Reduce household transportation costs by 5% between 2015 and 2020.">}}
+### Performance Measure
+* Combined transportation and housing costs as a percentage of median income
+* Percentage of income devoted to transportation
+
+### Data Sources
+Local Accessibility and Mobility Analysis (LAMA)
+
+
+### Strategies
+* Local Accessibility and Mobility Analysis (LAMA)
+* Favor policies and projects that ancourage greater fuel efficiency.
+* Emphasize transportation investments and urban forms that facilitate active modes of transportation and increase travel options, particularly in and connecting designated centers, to meet the needs of the regional economy.
+* Favor policies and projects with greater job creation.
+* Identify truck routes: Identification and designation of the system will describe critical corridors and priorities for operation and investment for elements of the system.
+* Increase the number and/or frequency of Amtrak routes.
+
+
+### Responsible Parties
+* CCRPC/CUUATS Staff
+* Champaign County EDC
+* Cities and Villages.
+
+    {{</accordion-content>}}
+
+    {{<accordion-content title="Increase the supply of affordable housing (condominiums, single family homes, townhomes, etc; rental units, and owner-occupied) with multimodal access to, from, and within designated employment centers by 5% between 2015 and 2020.">}}
+### Performance Measure
+* Number of businesses relocated due to corridor efficiency
+* Distribution of issued housing permits by locality in order to assess jobs-housing balance and other issues
+
+### Data Sources
+* Local knowledge Housing Permit Database
+
+### Strategies
+* Work with EDC members, developers, and transportation providers to strengthen the coordination of local and regional planning for transportation and economic development. Use the MPO as a forum to coordinate transit agency planning and projects.
+* Integrate transportation and land use planning to maximize the supply of development that can occur in accessible, multi-modal areas, in conjunction with pricing reforms that favor accessible locations.
+
+### Responsible Parties
+* CCRPC Staff
+* Cities and Villages
+* Developers.
+
+      {{</accordion-content>}}
+
+      {{<accordion-content title="Create freight plan for Champaign-Urbana urbanized area that identifies proposed freight routes by 2020.">}}
+### Performance Measure
+* Freight Plan
+* Number of freight routes implemented
+
+### Data Sources
+* CCRPC
+* Champaign, Urbana, and Savoy Public Works
+* University of Illinois Facilities and Services
+
+
+### Strategies
+* Collaborate with local, regional, state, and stakeholders to collect data and development freight plan for the region.
+* Track usage and impact of freight plan.
+
+
+### Responsible Parties
+* CUUATS Staff
+* Cities and Villages
+* University of Illinois
+* IDOT
+
+        {{</accordion-content>}}
+
+        {{<accordion-content title="Increase enplanements at Willard Airport by 10% by 2020, subject to the results of the Willard Airport Taskforce, (subject to change based on the results of Willard Airport Taskforce).">}}
+### Performance Measure
+* Percent increase in enplanements at Willard Airport
+
+### Data Sources
+Willard Airport
+
+### Strategies
+* Create at least 2 new regional or national flight connections that match nearby airport destinations or are unique destinations to the region to increase the appeal of Willard Airport to travelers.
+* Reduce or eliminate additional fees such as parking where applicable to increase the appeal of Willard Airport to travelers over other nearby or larger airports.
+
+### Responsible Parties
+* Willard Airport
+* University of Illinois
+
+
+          {{</accordion-content>}}
+
+          {{<accordion-content title="Begin construction of high speed rail infrastructure between Champaign and Chicago by 2035.">}}
+### Performance Measure
+Miles of high speed rail tracks built
+
+
+### Data Sources
+High speed rail consortium or IDOT
+
+### Strategies
+Support efforts by IDOT, the Midwest High Speed Rail Association, and other related entities to designate the Chicago-Champaign-St. Louis route as a federally studied and approved high speed rail corridor.
+
+### Responsible Parties
+High speed rail consortium or IDOT
+
+            {{</accordion-content>}}
+
+
+{{</accordion>}}
 
 ## Multimodal Connectivity
 ### Map 21 National Goal
