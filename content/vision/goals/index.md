@@ -1112,6 +1112,8 @@ Cities of Champaign and Urbana
 
  {{</accordion-content>}}
 
+ {{</accordion>}}
+
 
 
 ## Healthy neighborhoods
@@ -1130,7 +1132,223 @@ residential quality of life by strengthening existing neighborhoods and housing
 developments, evaluating and expanding active transportation infrastructure, and
 promoting energy conservation and environmental quality.
 
+{{<accordion border="true" border="true">}}
+{{<accordion-content title="Implement recommendations in at least 5 of the 11 neighborhoods listed within the Transit Facility Guidelines for the Champaign-Urbana Urbanized Area by 2020.">}}
+### Performance Measure
+Number of designated neighborhoods that fulfill all Transit Facility Guidelines recommendations
 
+
+### Data Sources
+* CUMTD
+* Champaign
+* Urbana
+* Savoy
+
+### Strategies
+* Develop a priority plan according to comments received from the general public during the LRTP Public Involvement Process giving high consideration to routes mentioned in multiple plans.
+* Develop a priority plan according to comments received from the general public during the LRTP Public Involvement Process giving high consideration to routes mentioned in multiple plans.
+
+### Responsible Parties
+* CUMTD
+* Champaign
+* Urbana
+* Savoy
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Increase accessibility to transit services by providing missing sidewalks connecting to at least 20 bus stops by 2020.">}}
+### Performance Measure
+Miles of new sidewalks connecting to bus stops
+
+### Data Sources
+Public Works departments of Champaign, Urbana, and Savoy
+
+### Strategies
+Apply for funding to build sidewalks connecting to bus stops.
+
+### Responsible Parties
+Public Works departments of Champaign, Urbana, and Savoy
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Connect one trail or bikeway facility with the Kickapoo Rail Trail as proposed in the Champaign County Greenways and Trails (CCGT) Plan by 2020.">}}
+### Performance Measure
+* Number of Kickapoo Trail connections
+* Miles of Kickapoo Trail connections
+
+### Data Sources
+Urbana Public Works department
+
+### Strategies
+Give high consideration to CCGT Plan High Priority projects.
+
+### Responsible Parties
+* Urbana
+* Champaign
+* Savoy
+* Mahomet
+* Champaign Park District
+* Urbana Park District
+* Champaign County Forest Preserve District
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Expand bicycle facilities within the Urbanized Area by 25% by 2020.">}}
+### Performance Measure
+Miles of new bicycle facilities (bike lanes, shared use paths, etc.)
+
+### Data Sources
+Public Works departments of Champaign, Urbana, and Savoy
+
+### Strategies
+* Apply for Illinois Transportation Enhancement Program (ITEP) grants.
+* Give high consideration to CCGT Plan High Priority projects.
+
+### Responsible Parties
+Public Works departments of Champaign, Urbana, Savoy, Mahomet, and Tolono
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Increase miles of bicycle facilities located within a quarter mile of affordable housing stock by 15% by 2020.">}}
+### Performance Measure
+Number of new bicycle facilities located within a 1/4 mile of affordable housing units
+
+### Data Sources
+* CUUATS
+* Cities of Champaign and Urbana
+* CCPHA
+
+### Strategies
+Inventory affordable housing and low income areas that are located more than 1/4 mile from a transit stop and/or trail facility.
+
+### Responsible Parties
+* CUMTD
+* CUUATS staff
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Improve 8 and 24-hour ozone levels for the entire Metropolitan Planning Area by 2020.">}}
+### Performance Measure
+* Number of new air quality monitoring stations installed
+* Number of both 8-hour and 24-hour periods achieving attainment level status for federal and state air quality standards
+
+### Data Sources
+Illinois Environmental Protection Agency (IEPA)
+
+### Strategies
+Install air quality monitoring stations near key traffic areas.
+
+### Responsible Parties
+IEPA
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Reduce Vehicle Miles Traveled (VMTs) per household within the urbanized area by 5% by 2020.">}}
+### Performance Measure
+Number of VMT per household
+
+### Data Sources
+Illinois Travel Statistics (IDOT)
+
+### Strategies
+Promote active modes of transportation through various forms of encouragement (online materials, educational events, signage, etc.)
+
+### Responsible Parties
+* Cities of Urbana and Champaign
+* Villages of Savoy and Mahomet
+* CUMTD
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Provide multimodal access to at least 3 new open spaces or recreational spaces by 2020.">}}
+### Performance Measure
+* Number of multimodal connections to open spaces
+* Number of multimodal connections to recreational spaces
+
+### Data Sources
+Public Works departments of Champaign, Urbana, and Savoy
+
+### Strategies
+Complete sidewalk inventory and assessment of the Urbanized Area.
+
+### Responsible Parties
+* Cities of Urbana and Champaign
+* Village of Savoy
+* Champaign Park District
+* Urbana Park District
+* CUUATS staff
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Reduce the number of Urbanized Area residents with medical conditions linked to non-active / sedentary lifestyles by 5% by 2020.">}}
+### Performance Measure
+Percent decrease in people with medical conditions linked to non-active / sedentary lifestyles
+
+### Data Sources
+* C-U Public Health District (CUPHD)
+* Carle Foundation Hospital
+* Presence Covenant Medical Center
+* Christie Clinic
+
+### Strategies
+* Conduct public health outreach events to promote active transportation.
+* Offer informational materials on the benefits of walking and bicycling online and at designated facilities.
+* Make bicycle and shared use path maps available online and in hard copy at public locations.
+
+### Responsible Parties
+* CUUATS
+* Urbana
+* Champaign
+* Savoy
+* Mahomet
+* CUPHD
+* C-U SRTS Project
+* Local medical institutions
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Improve below-average scores in 5 planning areas identified by the Local Accessibility and Mobility Analysis (LAMA) by 2020.">}}
+### Performance Measure
+* Number of neighborhoods with improved scores according to LAMA
+* Number of USDA-designated “food desserts” within the urbanized area
+
+### Data Sources
+walkscore.com, LAMA, USDA
+
+### Strategies
+* Encourage compact development practices.
+* Provide a variety of transportation options to all residents within the Urbanized Area.
+* Utilize data obtained from LAMA to inform future development.
+
+### Responsible Parties
+Cities of Champaign and Urbana
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Establish a communitywide bicycle and pedestrian coordinator to be housed at CCRPC by 2020.">}}
+### Performance Measure
+Number of new public resources educate/encourage active living, active transportation, and/or the appreciation of green space
+
+### Data Sources
+* CUUATS
+* local public Parks Department and Programs
+* local bike groups
+
+### Strategies
+* Create and publicize community-wide calendar of events including Bike-To-Work Day, Walk-n-Roll to School, the Christie marathon, and more.
+* Create new events like, Bike-N-Dine, Polar Bear Bike Ride, Smart Trip Planning, or Spring Into Action Walk About.
+* Produce and distribute a regualrly-updated map including bike, trail, and park facilities.
+
+### Responsible Parties
+* CUUATS
+* C-U SRTS Project
+* local bike groups
+* all local municipalities
+* local public Parks Departments and Programs
+
+{{</accordion-content>}}
+
+ {{</accordion>}}
 
 ## Balanced Development
 
