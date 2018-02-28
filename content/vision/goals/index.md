@@ -832,15 +832,6 @@ CUUATS member agencies and all local municipalities
 
   {{</accordion-content>}}
 
-
-  {{<accordion-content title="">}}
-### Performance Measure
-### Data Sources
-### Strategies
-### Responsible Parties}
-  {{</accordion-content>}} 
-
-
 {{</accordion>}}
 
 ## Accessibility and Affordability
@@ -855,10 +846,14 @@ person with disabilities.
 * The Champaign-Urbana area will address issues of equity as well as segregation
  in its diverse communities in the area of transportation.
 
+ {{<accordion-content title="">}}
+### Performance Measure
+### Data Sources
+### Strategies
+### Responsible Parties}
+ {{</accordion-content>}}
 
 
- {{<table url="table9-4.csv"
- title="Accessibility and Affordability">}}
 
 ## Healthy neighborhoods
 ### Map 21 National Goal
