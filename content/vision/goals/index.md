@@ -622,34 +622,225 @@ transportation system by allowing freedom of choice in all modes of
 transportation including active modes whenever possible.
 
 {{<accordion border="true" border="true">}}
-  {{<accordion-content title="Reduce the number of fatalities in Champaign-Urbana by 20% by 2020">}}
+  {{<accordion-content title="Upgrade 2015 existing sidewalk network within the Champaign-Urbana urbanized area by 10% to be ADA-compliant by 2020.">}}
 ### Performance Measure
+Miles of existing non-ADA compliant sidewalks upgraded along paved roads in the urbanized area
 
 ### Data Sources
+* Champaign
+* Urbana and Savoy public works departments
+* University of Illinois Facilities and Services
+* CUUATS
 
 ### Strategies
+* Install ADA-compliant sidewalks and ramps on all new roadway projects.
+* Retrofit ADA-complaint sidewalks and ramps on all existing roadway resurfacing and reconstruction projects.
 
 ### Responsible Parties
+* Cities and Villages
+* University of Illinois
+* IDOT
 
   {{</accordion-content>}}
-  {{<accordion-content title="">}}
+  {{<accordion-content title="Complete 50% of short term shared use (trail) infrastructure recommendations proposed in the Urbana Trails Master Plan (UTMP), Champaign Trails Plan, and Champaign County Greenways and Trails Plan (within the MPA) by 2020.">}}
 ### Performance Measure
+* Percent of scheduled recommendations within the UTMP and CCGT Plan completed
+* Number of miles of different types of trails infrastructure
+
 ### Data Sources
+* UTMP; CCGT Plan
+* Champaign and Urbana, and Savoy public works departments
+
 ### Strategies
+* Create routes that connect to and through all neighborhoods.  Seek input from neighborhood associations when possible.
+* Take advantage of opportunities to develop off-street shared-use paths, using methods including but not limited to: working with railroads to develop bicycle facilities on or along rights-of-way, and acquiring property that provides off-street connections between bicycle facilities.
+
 ### Responsible Parties
+* Cities and Park Districts of Champaign and Urbana, Village of Savoy, Champaign County Forest Preserve District, Developers
+
   {{</accordion-content>}}  
-  {{<accordion-content title="">}}
+  {{<accordion-content title="Complete 50% of short term bicycle infrastructure recommendations proposed in the Urbana Bicycle Master Plan (UBMP) and Champaign County Greenways and Trails (CCGT) Plan (within the MPA) by 2020.>}}
 ### Performance Measure
+* Percent of UTMP and CCGT Plan recommendations completed
+* Number of miles of different types of bicycle infrastructure
+
 ### Data Sources
+* UBMP; CCGT Plan
+* Champaign, Urbana, and Savoy public works departments
+
 ### Strategies
+* Create routes that connect to and through all neighborhoods.  Seek input from neighborhood associations when possible.
+* Take advantage of opportunities to develop off-street shared-use paths, using methods including but not limited to: working with railroads to develop bicycle facilities on or along rights-of-way, and acquiring property that provides off-street connections between bicycle facilities.
+
 ### Responsible Parties
+Cities and Park Districts of Champaign and Urbana, Village of Savoy, CCFPD, C-U MTD, Developers
+
   {{</accordion-content>}}  
+  {{<accordion-content title="Expand C-U MTD service area to be coterminous with the Champaign-Urbana urbanized area boundary by 2030.">}}
+### Performance Measure
+Percentage of the C-U MTD service area contained inside the urbanized area
+
+### Data Sources
+C-U MTD
+
+### Strategies
+Annexations of additional urbanized area land into the C-U MTD service area.
+
+### Responsible Parties}
+C-U MTD
+
+  {{</accordion-content>}}
+
+  {{<accordion-content title="Increase the availability of public transportation options between the Champaign-Urbana urbanized area and other locations within the MPA by 15% by 2020.">}}
+### Performance Measure
+* Number of new rural transit connections
+* Number of new rural transit trips connecting to the urbanized area
+
+### Data Sources
+* C-U MTD
+* CCARTS
+* CCRPC
+
+### Strategies
+Connect underserved rural transit areas by linking rural transit services to local transit service routes at connecting points.
+
+### Responsible Parties}
+C-U MTD
+
+  {{</accordion-content>}}  
+
+  {{<accordion-content title="Adhere to the CUUATS Complete Streets Policy for all new and 50% of reconstruction transportation infrastructure projects by 2020.">}}
+### Performance Measure
+Percentage of transportation projects fully adhering to the CUUATS Complete Streets Policy
+
+### Data Sources
+Champaign, Urbana and Savoy public works departments and University of Illinois Facilities and Services
+
+### Strategies
+* Identify cost effective ways of including bicycle pedestrian, and transit accommodations into all new roadway projects.
+* Exercise due diligence in considering the cost effectiveness of including bicycle, pedestrian, and transit accomodations into existing roadway reconstruction projects.
+
+### Responsible Parties}
+* CUUATS Staff
+* Cities and Villages
+* University of Illinois
+* IDOT
+
+  {{</accordion-content>}}  
+
+  {{<accordion-content title="Begin construction of high speed rail infrastructure between Champaign and Chicago by 2035.">}}
+### Performance Measure
+Miles of high speed rail tracks built
+
+### Data Sources
+High speed rail consortium or IDOT
+
+### Strategies
+Support efforts by IDOT, the Midwest High Speed Rail Association, and other related entities to designate the Chicago-Champaign-St. Louis route as a federally studied and approved high speed rail corridor.
+
+### Responsible Parties}
+High speed rail consortium or IDOT
+
+  {{</accordion-content>}}     
+
+  {{<accordion-content title="Create freight plan for Champaign-Urbana urbanized area that identifies proposed freight routes by 2020.">}}
+### Performance Measure
+Freight Plan
+Number of freight routes implemented
+
+### Data Sources
+* CCRPC
+* Champaign, Urbana, and Savoy Public Works
+* University of Illinois Facilities and Services
+
+### Strategies
+* Collaborate with local, regional, state, and stakeholders to collect data and development freight plan for the region.
+* Track usage and impact of freight plan.
+
+### Responsible Parties}
+* CUUATS Staff
+* Cities and Villages
+* University of Illinois
+* IDOT
+
+  {{</accordion-content>}}
+
+  {{<accordion-content title="Increase enplanements at Willard Airport by 10% by 2020, subject to the results of the Willard Airport Taskforce, (subject to change based on the results of Willard Airport Taskforce).">}}
+### Performance Measure
+Percent increase in enplanements at Willard Airport
+
+### Data Sources
+Willard Airport
+
+### Strategies
+* Create at least 2 new regional or national flight connections that match nearby airport destinations or are unique destinations to the region to increase the appeal of Willard Airport to travelers.
+* Reduce or eliminate additional fees such as parking where applicable to increase the appeal of Willard Airport to travelers over other nearby or larger airports.
+
+### Responsible Parties}
+* Willard Airport
+* University of Illinois
+
+  {{</accordion-content>}}
+
+  {{<accordion-content title="Maintain CUMTD transit service to Willard Airport between now and 2020, keeping trips consistent with the number of flights.">}}
+### Performance Measure
+Number of bus trips to Willard Airport, number of flights, number of riders
+
+### Data Sources
+* CUMTD
+* Willard Airport
+
+### Strategies
+Track ridership to identify cost effective ways to maintain service.
+
+### Responsible Parties
+* CUMTD
+* Willard Airport
+
+
+  {{</accordion-content>}}
+
+  {{<accordion-content title="Identify 3 new partners to provide education, encouragement, and enforcement programs on transportation modes, facilities, and benefits by 2020.">}}
+### Performance Measure
+Number of new partners identified
+
+### Data Sources
+CUUATS
+
+### Strategies
+* Take advantage of opportunities to partner with public and private entities interested in the benefits of transporation education.
+* Use community-wide calendars to promote multimodal transportation to existing events.
+
+### Responsible Parties}
+CUUATS member agencies
+
+  {{</accordion-content>}}
+
+  {{<accordion-content title="Distribute educational and/or encouragement materials focusing on transportation modes, facilities, and benefits at a minimum of 5 public events/locations per year.">}}
+### Performance Measure
+Number of public events with materials available
+
+### Data Sources
+CUUATS
+
+### Strategies
+* Set up information table at popular events listed on municipal calendars of public events (i.e. Neighborhood Nights, Sounds at Sunset, Orchard Days, RC Fest, sporting events, etc).
+* Distribute at least 1 type of educational and/or encouragement material related to transportation modes, facilities, and benefits to K-12 schools.
+
+### Responsible Parties}
+CUUATS member agencies and all local municipalities
+
+  {{</accordion-content>}}
+
+
   {{<accordion-content title="">}}
 ### Performance Measure
 ### Data Sources
 ### Strategies
 ### Responsible Parties}
-  {{</accordion-content>}}    
+  {{</accordion-content>}} 
+
+
 {{</accordion>}}
 
 ## Accessibility and Affordability
