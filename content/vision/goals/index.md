@@ -846,11 +846,270 @@ person with disabilities.
 * The Champaign-Urbana area will address issues of equity as well as segregation
  in its diverse communities in the area of transportation.
 
- {{<accordion-content title="">}}
+ {{<accordion-content title="Upgrade 2015 existing sidewalk network within the Champaign-Urbana urbanized area by 10% to be ADA-compliant by 2020.">}}
 ### Performance Measure
+Miles of existing non-ADA compliant sidewalks upgraded along paved roads in the urbanized area
+
 ### Data Sources
+Champaign, Urbana and Savoy public works departments, University of Illinois Facilities and Services, CUUATS
+
 ### Strategies
+* Install ADA-compliant sidewalks and ramps on all new roadway projects.
+* Retrofit ADA-complaint sidewalks and ramps on all existing roadway resurfacing and reconstruction projects.
+
+### Responsible Parties
+* Cities and Villages
+* University of Illinois
+* IDOT
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Implement 50% of the short term priority projects from the C-U SRTS Project plans developed for Stratton, Dr. Howard, South Side and Prairie Schools in Champaign-Urbana by 2020.">}}
+### Performance Measure
+Number of short term projects completed according to various C-U SRTS Project plans
+
+### Data Sources
+* Champaign Unit 4 School District
+* Urbana School District 116
+
+### Strategies
+* Encourage schools to work with municipal departments to implement engineering and enforcement recommendations.
+* Encourage schools to work with the C-U SRTS Project to implement encouragement, education, and evaluation recommendations.
+
+### Responsible Parties
+* Champaign School District
+* Urbana School District
+* Cities of Champaign and Urbana
+* C-U SRTS Project
+* CUUATS
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Develop pedestrian plans for all jurisdictions within the urbanized area by 2020.">}}
+### Performance Measure
+Number of new pedestrian plans
+
+### Data Sources
+Local municipalities and the University of Illinois
+
+### Strategies
+* Consult with existing pedestrian plans and local agencies to coordinate all plans and infrastructure priorities.
+* Coordinate with local law enforcement regarding new pedestrian plans and associated education and enforcement activities, especially targeting motorists.
+
 ### Responsible Parties}
+* Local municipalities
+* University of Illinois
+* local law enforcement agencies
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Develop bicycle plans for all jurisdictions within the urbanized area by 2020.">}}
+### Performance Measure
+Number of new, coordinated bicycle plans
+
+### Data Sources
+Local municipalities and the University of Illinois
+
+### Strategies
+* Coordinate with local, regional, and state bicycle plans for data/input collection and outreach.
+* Coordinate with local law enforcement regarding new bicycle plans and associated education and enforcement activities, especially targeting motorists.
+
+### Responsible Parties
+* Local municipalities
+* University of Illinois
+* Local Law Enforcement Agencies
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Develop snow removal ordinances, programs, and policies for all jurisdictions to provide year-round access to sidewalks, bike paths, and transit stops by 2020.">}}
+### Performance Measure
+Number of ordinances implemented by municipalities within the urbanized area
+
+### Data Sources
+Local municipalities
+
+### Strategies
+* Define high traffic and priority areas for snow removal.
+* If necessary, define encouragement and enforcement measures for snow removal.
+
+### Responsible Parties
+Local municipalities and Public Works Departments
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Create an affordable, annual transit pass program for low-income individuals and high school youth by 2020.">}}
+
+### Performance Measure
+Number of affordable, annual transit pass programs created
+
+### Data Sources
+C-U MTD
+
+### Strategies
+* Investigate what percentage of annual transit pass cost would be cost-effective to price an affordable, annual transit pass for high school-aged youth.
+* Investigate the feasibility of allowing middle and high-school aged students to use their school IDs to ride the bus at any time.
+
+### Responsible Parties
+C-U MTD
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Provide transit routes to at least  3 new areas in the community (e.g. Northwest Champaign area, etc.) by 2020.">}}
+
+### Performance Measure
+Number of direct transit routes and links between neighborhoods and community interest points and major employers
+
+### Data Sources
+C-U MTD
+
+### Strategies
+* Provide transit service to areas of new residential, commercial and/or industrial development.
+* Evaluate existing routes and service times to determine if transit service is meeting resident and/or worker demands and identify areas for expansion of service where needed, as feasible.
+
+### Responsible Parties
+C-U MTD
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Expand car sharing programs and locations by 10% by 2020.">}}
+### Performance Measure
+* Number of Zipcar locations
+* Number of new car share programs in the area
+
+### Data Sources
+Zipcar
+
+### Strategies
+* Continue to market the benefits of lifestyles free of car ownership to existing and future students and residents.
+* Identify areas with potential for high car-sharing usage, such as dense residential areas, commercial areas, or business traveler destinations.
+
+### Responsible Parties
+* Zipcar
+* C-U MTD
+* City of Urbana
+* City of Champaign
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Adhere to the CUUATS Access Management Guidelines when building or reconstructing a roadway or providing access to development.">}}
+### Performance Measure
+Percentage of transportation projects fully adhering to the CUUATS Access Management Guidelines
+
+### Data Sources
+Access Management Guidelines document and public works departments
+
+### Strategies
+Adopt CUUATS Access Management Guidelines into municipal codes or ordinances.
+
+### Responsible Parties
+* City of Champaign
+* City of Urbana
+* Village of Savoy
+* University of Illinois
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Increase Amtrak ridership from Illinois Terminal by 5% by 2020.">}}
+### Performance Measure
+Percent change in Amtrak ridership
+
+### Data Sources
+Amtrak
+
+### Strategies
+* Cheaper and more consistent Amtrak fare pricing.
+* Increased frequencies.
+
+### Responsible Parties
+Amtrak
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Continue to provide at least one opportunity for public input for each new transportation project.">}}
+### Performance Measure
+* Number of public comment opportunities
+* Number of new public outreach methods
+
+### Data Sources
+CUUATS
+
+### Strategies
+* Project open houses.
+* Project advisory committees.
+
+### Responsible Parties
+CUUATS member agencies
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Make information materials on transportation modes, facilities, and/or benefits available in at least 1 language besides English by 2020.">}}
+### Performance Measure
+Number of multilingual materials
+
+### Data Sources
+CUUATS
+
+### Strategies
+* Create and distribute maps.
+* Create and distribute brochures.
+
+### Responsible Parties
+CUUATS
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Increase the number of publicly available vehicle alternative fueling and charging stations by 15% by 2020.">}}
+### Performance Measure
+Number of alternative fueling stations, number of charging stations
+
+### Data Sources
+Local municipalities and the University of Illinois
+
+### Strategies
+Install a new alternative fueling and charging stations in each geographic area of the urbanized area.
+
+### Responsible Parties
+Local municipalities and Public Works Departments
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Increase the number of bicycle self-repair stations by 3 by 2020.">}}
+### Performance Measure
+Number of new bicycle self-repair stations
+
+### Data Sources
+Local municipalities and the University of Illinois
+
+### Strategies
+Install a new bike self-repair stations in each geographic area of the urbanized area.
+
+### Responsible Parties
+* City of Champaign
+* City of Urbana
+* Village of Savoy
+* University of Illinois
+
+ {{</accordion-content>}}
+
+ {{<accordion-content title="Improve below-average scores in 5 planning areas identified by the Local Accessibility and Mobility Analysis (LAMA) by 2020.">}}
+### Performance Measure
+* Number of areas with improved scores according to LAMA
+* Number of USDA-designated “food desserts” within the urbanized area
+
+### Data Sources
+* walkscore.com
+* LAMA
+* USDA
+
+### Strategies
+* Develop a transportation directory
+* Coordinate existing transit services to reduce costs.
+* Utilize data obtained from LAMA to inform future development
+* Diversify transit funding services.
+
+### Responsible Parties
+Cities of Champaign and Urbana
+
  {{</accordion-content>}}
 
 
