@@ -1376,3 +1376,109 @@ types of development without encouraging sprawl or sacrificing important
 historical structures or new business opportunities by reinvigorating downtown
 areas, fostering more mixed use development, and protecting and preserving
 neighborhoods and business districts that contain historic structures.
+
+{{<accordion border="true" border="true">}}
+{{<accordion-content title="Minimize the rate of development that is not contiguous to the existing built environment by 2020.">}}
+### Performance Measure
+Number of acres designated as agricultural and open space in 2015
+
+### Data Sources
+Champaign County Tax Assessor Parcel Data
+
+### Strategies
+Schedule annual updates/progress reports to relevant groups on agricultural and open space parcel inventories within the MPA.
+
+### Responsible Parties
+* City of Urbana
+* City of Champaign
+* Village of Savoy
+* CUUATS staff
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Provide a minimum of 2 new Complete Street connections to Downtown Urbana (Green Street)  and Downtown Champaign (White Street) by 2020.">}}
+### Performance Measure
+Number of transit, bicycle, and/or shared use connections leading to a downtown area
+
+### Data Sources
+* City of Urbana
+* City of Champaign
+* Village of Savoy
+* CUMTD
+
+### Strategies
+* Incorporate this objective into municipal Capital Improvement Plans (CIPs).
+* Continue to coordinate planning and development between municipal planning departments, the University of Illinois, C-U MTD, and park districts.
+
+### Responsible Parties
+* City of Urbana
+* City of Champaign
+* Village of Savoy
+* University of Illinois
+* CUMTD
+* Champaign County Regional Planning Commission
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Install bicycle, pedestrian, and transit facilities in at least 3 mixed use developments by 2020.">}}
+### Performance Measure
+Number of mixed use developments with bicycle, pedestrian, and transit access
+
+### Data Sources
+* City of Urbana
+* City of Champaign
+* Village of Savoy
+
+### Strategies
+* Incorporate this objective into municipal Capital Improvement Plans (CIPs).
+* Continue to coordinate planning and development between municipal planning departments, the University of Illinois, C-U MTD, and park districts.
+
+### Responsible Parties
+* Urbana
+* Champaign
+* Savoy
+* University of Illinois
+* CUMTD
+* CCRPC
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Consider and avoid negative impacts of new and existing transportation projects on historically significant buildings, landmarks, districts, and/or structures in at least 2 transportation projects through 2020.">}}
+### Performance Measure
+Number of transportation projects that mitigate negative impacts on historic buildings, landmarks, districts and/or structures
+
+### Data Sources
+National Register of Landmarks, National Register of Historic Places, Historic Architectural & Archeology Resources GIS, Illinois Historic Bridge Survey, Illinois Natural Resources Geospatial Information Clearinghouse
+
+### Strategies
+* Coordinate with preservation groups to identify and track condition of key historical features.
+* Create a list of recognized historical features for distribution to public works departments and city and county planning offices.
+
+### Responsible Parties
+* City of Urbana
+* City of Champaign
+* Village of Savoy
+* IDOT
+* Champaign County Regional Planning Commission
+
+{{</accordion-content>}}
+
+{{<accordion-content title="Improve below-average scores in 5 planning areas identified by LAMA by 2020.">}}
+### Performance Measure
+* Number of neighborhoods with improved scores according to LAMA
+* Number of USDA-designated “food desserts” within the urbanized area
+
+### Data Sources
+* walkscore.com
+* LAMA
+* USDA
+
+### Strategies
+Utilize data obtained from LAMA to inform future development.
+
+### Responsible Parties
+Cities of Champaign and Urbana
+
+{{</accordion-content>}}
+
+ {{</accordion>}}
