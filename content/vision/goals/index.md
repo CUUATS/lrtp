@@ -659,7 +659,7 @@ Miles of existing non-ADA compliant sidewalks upgraded along paved roads in the 
 * Cities and Park Districts of Champaign and Urbana, Village of Savoy, Champaign County Forest Preserve District, Developers
 
   {{</accordion-content>}}  
-  {{<accordion-content title="Complete 50% of short term bicycle infrastructure recommendations proposed in the Urbana Bicycle Master Plan (UBMP) and Champaign County Greenways and Trails (CCGT) Plan (within the MPA) by 2020.>}}
+  {{<accordion-content title="Complete 50% of short term bicycle infrastructure recommendations proposed in the Urbana Bicycle Master Plan (UBMP) and Champaign County Greenways and Trails (CCGT) Plan (within the MPA) by 2020.">}}
 ### Performance Measure
 * Percent of UTMP and CCGT Plan recommendations completed
 * Number of miles of different types of bicycle infrastructure
@@ -846,6 +846,7 @@ person with disabilities.
 * The Champaign-Urbana area will address issues of equity as well as segregation
  in its diverse communities in the area of transportation.
 
+{{<accordion border="true" border="true">}}
  {{<accordion-content title="Upgrade 2015 existing sidewalk network within the Champaign-Urbana urbanized area by 10% to be ADA-compliant by 2020.">}}
 ### Performance Measure
 Miles of existing non-ADA compliant sidewalks upgraded along paved roads in the urbanized area
