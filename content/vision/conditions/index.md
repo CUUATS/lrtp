@@ -3,6 +3,8 @@ title: "Future Conditions"
 date: 2018-02-02T15:52:33-06:00
 draft: true
 Weight: 30
+bannerHeading: Future Conditions
+bannerText: The overall picture of the Champaign-Urbana region today reveals a regional transportation system that is able to serve its residents, businesses, and visitors for a variety of purposes, mobility needs, desires, and abilities. 
 ---
 {{<image src="urbana.jpg"
 alt="urban walkable area of Urbana"

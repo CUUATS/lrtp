@@ -3,7 +3,8 @@ title: "Land Use"
 date: 2018-01-30T14:31:25-06:00
 draft: true
 Weight: 20
-
+bannerHeading: Land Use
+bannerText: Land use and planning principles are critical to understanding the impact of future transportation investments. 
 ---
 Land use and planning principles are critical to understanding the impact of
 future transportation investments. The coordination of land use and

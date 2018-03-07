@@ -3,12 +3,9 @@ title: "Introduction"
 date: 2018-01-24T11:56:31-06:00
 draft: true
 weight: 10
-
----
 bannerHeading: Introduction
-bannerText: The text of the banner message
-bannerAction: The button text
-bannerUrl: /path-to/button-destination
+bannerText: A long range transportation plan’s (LRTP) purpose is to assess the existing and future transportation infrastructure over a 25-year horizon for an area of urban development known as the metropolitan planning area (MPA).
+---
 
 A long range transportation plan’s (LRTP) purpose is to assess the existing and
 future transportation infrastructure over a 25-year horizon for an area of urban

@@ -3,6 +3,8 @@ title: "Transportation"
 date: 2018-01-31T11:32:41-06:00
 draft: true
 Weight: 50
+bannerHeading: Transportation
+bannerText: Understanding how the transportation system currently works with regard to the quantity of the infrastructure and frequency of use, planners can better assess how the system should evolve into the future.
 ---
 This section of the LRTP: Sustainable Choices 2040 will detail infrastructure,
 safety, and mode use for the following modes of transportation within the
