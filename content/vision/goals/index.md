@@ -3,6 +3,8 @@ title: "Goals"
 date: 2018-02-01T15:40:34-06:00
 draft: true
 Weight: 20
+bannerHeading: Goals, Objectives, & Performance Measures 
+bannerText:  The formulation of goals and objectives determines what direction planning efforts should take.
 ---
 ## Purpose
 The formulation of goals and objectives determines what direction planning
