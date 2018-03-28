@@ -35,7 +35,7 @@ land. The nature of the transportation system has changed over time to meet new
 transportation needs including the establishment of the railroads beginning in
 the mid 1800s and the construction of the highways in the 1960s and 1970s.
 
-{{<line-chart url="2-1.csv" title="Champaign-Urbana Population Growth (1850-2010)" line-width="3">}}
+{{<line-chart url="2-1.csv" grid-lines="true" xlabel="Year" ylabel="Population" title="Champaign-Urbana Population Growth (1850-2010)" line-width="3">}}
 
 ## Inter-Urban Rail
 Historically there has been a succession of local inter-urban rail services
