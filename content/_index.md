@@ -4,7 +4,7 @@ date: 2017-11-21T13:50:42-06:00
 draft: true
 ---
 
-# Sustainable Choices 2045
+# Sustainable Choices 2040
 
 The Long Range Transportation Plan (LRTP) is a federally mandated document that
 is updated every five years and details how the urbanized area transportation
