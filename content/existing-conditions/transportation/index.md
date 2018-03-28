@@ -263,6 +263,8 @@ overall change in the perception of public transportation have collectively led
 to higher ridership numbers for C-U MTD from 2008 to the present. Comparing 2007
 to 2012, there has been an increase of 2.4 million rides per year (Figure 7.10).
 
+{{<line-chart url="7-11.csv" title="C-U MTD Annual Ridership (2007-2012)" line-width="3">}}
+
 Approximately 4.9 percent of workers over the age of 16 take public
 transportation to work each day across the United States. In comparison, in
 Champaign and Urbana, nearly 9.5 percent of workers in the same age range take
@@ -461,6 +463,8 @@ use within the urbanized area.
 title="VMT and Total Crash Rate in Champaign-Urbana"
 source="Illinois Department of Transportation">}}
 
+{{<line-chart url="7-17.csv" title="Total Crashes Per 100 Million VMT" line-width="3">}}
+
 ### VMT and Total Crash Rate in Champaign-Urbana
 The number of crashes in the urbanized area per the total vehicle miles traveled
 (VMT) is an important index for crash analysis. The VMT1 reflects the total
@@ -493,6 +497,10 @@ in 2009. In the same year, no fatalities were reported in the City of Champaign.
 Though the number of fatalities increased for 2010 and 2011, the number of
 fatalities in those years were lower than 2007 and 2008. Figure 7.20 identifies
 the fatal automobile crash locations in the area from 2007-2011.
+
+{{<line-chart url="7-18.csv" title="Traffic Fatalities Per 100 Million VMT" line-width="3">}}
+
+{{<line-chart url="7-19.csv" title="Traffic Fatalities in Champaign-Urbana (2007-2011)" line-width="3">}}
 
 ### Corridor Crash Analysis
 Identifying and analyzing crashes along the key corridors in the region helps
@@ -700,6 +708,8 @@ Ridership has been increasing since 2002, with a sharp increase from 2006 to
 Chicago and Carbondale. Since 2009, ridership has been steadily increasing with
 a significant 20 percent increase between 2010 and 2011.
 
+{{<line-chart url="7-26.csv" title="Amtrak Ridership at Illinois Terminal" line-width="3">}}
+
 ## Airplanes
 Two airports are located within the MPA. Air travel connects this community to
 numerous destinations across the country and the world, facilitating national
@@ -753,6 +763,10 @@ position="center">}}
 {{<table url="table7-25.csv"
 title="Willard Airport Flights and Enplanements (2006-2012)"
 source="Willard Airport Homepage, http://www.flycmi.com/">}}
+
+{{<line-chart url="7-28.csv" title="Total Enplanements Per Year for Regional Airports" line-width="3">}}
+
+{{<line-chart url="7-29.csv" title="Willard Airport Flight Status (2003-2013)" line-width="3">}}
 
 {{<table url="table7-26.csv"
 title="Willard Airport Delay by Type (2012)"
